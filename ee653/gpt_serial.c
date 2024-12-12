@@ -71,13 +71,15 @@ int main() {
         mpz_set_str(b, b_str, 10);
 
         // Measure execution time
-        clock_t start_time = clock();
+        struct timespec start, end;
+        clock_gettime(CLOCK_MONOTONIC, &start); 
 
         // Compute extended GCD
         xgcd_gmp(a, b, gcd, ba, bb);
 
-        clock_t end_time = clock();
-        double elapsed_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
+        clock_gettime(CLOCK_MONOTONIC, &end);
+
+        double elapsed_time = (end.tv_sec - start.tv_sec) + (end.tv_nsec - start.tv_nsec) / 1e9;
 
         // Output results to file
         char buffer[2048];
