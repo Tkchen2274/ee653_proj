@@ -25,7 +25,9 @@ def generate_random_numbers(filename, num_lines, min_value, max_value):
 output_filename = "input.txt"  # Name of the output file
 lines_to_generate = 2000                 # Number of lines to generate
 min_random_value = 1                    # Minimum random number value
-max_random_value = 4294967295                  # Maximum random number value
+# max_random_value = 4294967295                  # Maximum random number value
+
+max_random_value = 115792089237316195423570985008687907853269984665640564039457584007913129639936
 
 # Generate the file
 generate_random_numbers(output_filename, lines_to_generate, min_random_value, max_random_value)
