@@ -79,24 +79,88 @@ void generate_vdf_parameters(mpz_t x, mpz_t a, mpz_t b) {
     printf("Exiting generate_vdf_parameters()\n");
 }
 
-// Function to verify the VDF solution
-bool verify_vdf(const mpz_t r, const mpz_t P, const mpz_t a, const mpz_t b) {
+/**
+ * Extended GCD (Greatest Common Divisor) using GMP for 256-bit integers.
+ * Returns Bezout coefficients and GCD.
+ */
+void xgcd_gmp(const mpz_t a0, const mpz_t b0, mpz_t gcd, mpz_t ba, mpz_t bb) {
+    mpz_t u, v, x, y, a, b, q, r, temp;
+    mpz_inits(u, v, x, y, a, b, q, r, temp, NULL);
+
+    mpz_set(a, a0);
+    mpz_set(b, b0);
+    mpz_set_ui(u, 1);
+    mpz_set_ui(v, 0);
+    mpz_set_ui(x, 0);
+    mpz_set_ui(y, 1);
+
+    while (mpz_sgn(b) != 0) {
+        mpz_fdiv_qr(q, r, a, b);
+        mpz_set(a, b);
+        mpz_set(b, r);
+
+        mpz_set(temp, x);
+        mpz_mul(x, q, x);
+        mpz_sub(x, u, x);
+        mpz_set(u, temp);
+
+        mpz_set(temp, y);
+        mpz_mul(y, q, y);
+        mpz_sub(y, v, y);
+        mpz_set(v, temp);
+    }
+
+    mpz_set(gcd, a);
+    mpz_set(ba, u);
+    mpz_set(bb, v);
+
+    mpz_clears(u, v, x, y, a, b, q, r, temp, NULL);
+}
+
+// Function to verify the VDF solution.
+bool verify_vdf(const mpz_t r, const mpz_t P, const mpz_t x, const mpz_t b0, unsigned long T, const mpz_t a) {
     printf("Entering verify_vdf()\n");
-    mpz_t temp;
-    mpz_init(temp);
 
-    // Replace this with your actual VDF verification logic
-    // This is just a placeholder for demonstration
-    // In a real VDF, the verification would involve checking if 'r' and 'P'
-    // are the correct result of the VDF computation based on 'a' and 'b'.
-    bool is_valid = true; // Replace with actual verification
+    mpz_t a_check, r_check, P_check, temp, gcd, ba, bb;
+    mpz_inits(a_check, r_check, P_check, temp, gcd, ba, bb, NULL);
 
-    mpz_clear(temp);
+    // Initialize values using received r and P
+    mpz_set(r_check, r);
+    mpz_set(P_check, P);
+    mpz_set(a_check, x);
+
+    // Perform one more iteration of the VDF calculation
+    xgcd_gmp(a_check, b0, gcd, ba, bb);
+
+    if (mpz_even_p(ba)) {
+        mpz_mul(P_check, P_check, ba);
+        mpz_mod(P_check, P_check, x);
+
+        mpz_mul(r_check, r_check, ba);
+        mpz_mod(r_check, r_check, x);
+    }
+
+    mpz_mul(temp, ba, x);
+    mpz_addmul(temp, bb, b0);
+    mpz_mod(a_check, temp, x);
+
+    // Verification
+    bool is_valid = (mpz_cmp(r_check, r) == 0) && (mpz_cmp(P_check, P) == 0);
+
+    if (is_valid) {
+        printf("  Verification: SUCCESS\n");
+    } else {
+        printf("  Verification: FAILURE\n");
+    }
+
+    // Clean up
+    mpz_clears(a_check, r_check, P_check, temp, gcd, ba, bb, NULL);
+
     printf("Exiting verify_vdf()\n");
     return is_valid;
 }
 
-// Thread function for handling client requests
+// the client handler
 void* handle_client(void* arg) {
     printf("Entering handle_client()\n");
     int client_socket = *(int*)arg;
@@ -104,13 +168,13 @@ void* handle_client(void* arg) {
     struct sockaddr_in client_addr;
     socklen_t addr_len = sizeof(client_addr);
 
-    // Get client IP address
+    // Get client IP
     getpeername(client_socket, (struct sockaddr*)&client_addr, &addr_len);
     inet_ntop(AF_INET, &(client_addr.sin_addr), client_ip, INET_ADDRSTRLEN);
 
     printf("Client connected: %s\n", client_ip);
 
-    // Find client in the list or add if new
+    // find client in the list or add it
     pthread_mutex_lock(&clients_mutex);
     printf("handle_client: Acquired clients_mutex\n");
     int client_index = -1;
@@ -139,10 +203,10 @@ void* handle_client(void* arg) {
 
     ClientStatus* client = &clients[client_index];
 
-    // Check if client is already solving a puzzle
+    // Check if client is already solving
     if (client->solving) {
         printf("Client %s is already solving a puzzle\n", client_ip);
-        // Check if the client has timed out
+        // did they time out tho?
         if (time(NULL) - client->challenge_start_time > 60) {
             printf("Client %s has timed out\n", client_ip);
             // Reset the client's status
@@ -152,7 +216,7 @@ void* handle_client(void* arg) {
         } else {
             pthread_mutex_unlock(&clients_mutex);
             printf("handle_client: Released clients_mutex\n");
-            char* msg = "You are already solving a puzzle. Please wait.";
+            char* msg = "You're already solving. Wait a bit.";
             printf("Puzzle request refused for %s: %s\n", client_ip, msg);
             send(client_socket, msg, strlen(msg), 0);
             close(client_socket);
@@ -163,7 +227,7 @@ void* handle_client(void* arg) {
     pthread_mutex_unlock(&clients_mutex);
     printf("handle_client: Released clients_mutex\n");
 
-    // Receive request from client
+    // Get request from client
     char buffer[4096] = {0};
     int valread = read(client_socket, buffer, 4096);
     if (valread <= 0) {
@@ -177,7 +241,7 @@ void* handle_client(void* arg) {
 
     if (strcmp(buffer, "REQUEST") == 0) {
         printf("Handling REQUEST from %s\n", client_ip);
-        // Generate VDF parameters
+        // Generate the VDF stuff
         pthread_mutex_lock(&clients_mutex);
         printf("handle_client: Acquired clients_mutex\n");
 
@@ -212,13 +276,13 @@ void* handle_client(void* arg) {
         }
     }
 
-    // Wait for the solution or timeout
+    // Wait for the solution or timeout (kinda)
     time_t start_time = time(NULL);
     while (client->solving && (time(NULL) - start_time < 60)) {
         // Check for solution
         valread = recv(client_socket, buffer, sizeof(buffer), MSG_DONTWAIT); // Use non-blocking read
         if (valread > 0) {
-            buffer[valread] = '\0'; // Null-terminate the received data
+            buffer[valread] = '\0'; // Null-terminate
             if (strncmp(buffer, "SOLUTION", 8) == 0) {
                 printf("Handling SOLUTION from %s\n", client_ip);
                 // Client is sending a solution: "SOLUTION r P"
@@ -239,7 +303,8 @@ void* handle_client(void* arg) {
                 pthread_mutex_lock(&clients_mutex);
                 printf("handle_client: Acquired clients_mutex\n");
                 printf("Verifying solution from %s...\n", client_ip);
-                bool valid = verify_vdf(received_r, received_P, client->a, client->b);
+
+                bool valid = verify_vdf(received_r, received_P, client->x, client->b, NUM_ITERATIONS, client->a);
                 if (valid) {
                     printf("Solution from %s is valid\n", client_ip);
                     // Correct solution
@@ -274,7 +339,7 @@ void* handle_client(void* arg) {
                 mpz_clears(received_r, received_P, NULL);
 
             }
-            break; // Break out of the while loop after receiving a valid or invalid solution
+            break; // Break outta the while loop
         }
         else if (valread == 0)
         {
@@ -287,10 +352,10 @@ void* handle_client(void* arg) {
                 break;
             }
         }
-        sleep(1);  // Wait for 1 second before checking again
+        sleep(1);  // Wait for 1 sec
     }
 
-    // Check if we exited the loop due to timeout
+    // Check if we exited the loop cuz of timeout
     if (client->solving) {
         printf("Timeout waiting for solution from %s\n", client_ip);
         // Reset client status
@@ -349,7 +414,7 @@ int main() {
         clients[i].ip_address[0] = '\0';
     }
 
-    // Accept incoming connections and create threads
+    // Accept incoming connections and do the threads
     while (1) {
         if ((new_socket = accept(server_fd, (struct sockaddr*)&address, (socklen_t*)&addrlen)) < 0) {
             perror("accept");
@@ -362,7 +427,7 @@ int main() {
             close(new_socket);
         }
 
-        // Detach the thread so its resources are automatically released when it finishes
+        // Detach the thread so its resources are freed when it finishes
         pthread_detach(thread_id);
     }
 
