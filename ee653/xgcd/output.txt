@@ -1,0 +1,7004 @@
+Case 1:
+a: 3981305463
+b: 834891553
+GCD: 1
+Coefficients (a,b): 36961421, -176256074
+Time: 0.000021170 seconds
+
+Case 2:
+a: 2633475011
+b: 4010196630
+GCD: 1
+Coefficients (a,b): 1890939881, -1241770263
+Time: 0.000004148 seconds
+
+Case 3:
+a: 2301020633
+b: 3802039342
+GCD: 1
+Coefficients (a,b): 1249848359, -756416913
+Time: 0.000003276 seconds
+
+Case 4:
+a: 2235720827
+b: 2381254507
+GCD: 1
+Coefficients (a,b): 1032814972, -969693049
+Time: 0.000003146 seconds
+
+Case 5:
+a: 458081494
+b: 2428432580
+GCD: 2
+Coefficients (a,b): 598835303, -112959846
+Time: 0.000002395 seconds
+
+Case 6:
+a: 2748134773
+b: 2266814620
+GCD: 1
+Coefficients (a,b): 347702417, -421531207
+Time: 0.000003496 seconds
+
+Case 7:
+a: 1247357050
+b: 1761549434
+GCD: 2
+Coefficients (a,b): 299238187, -211891222
+Time: 0.000002765 seconds
+
+Case 8:
+a: 1004227201
+b: 131229638
+GCD: 1
+Coefficients (a,b): 19286177, -147586352
+Time: 0.000002505 seconds
+
+Case 9:
+a: 2201474066
+b: 794535960
+GCD: 2
+Coefficients (a,b): -6005123, 16638797
+Time: 0.000002635 seconds
+
+Case 10:
+a: 2642918964
+b: 2158384311
+GCD: 3
+Coefficients (a,b): 30882266, -37815011
+Time: 0.000002234 seconds
+
+Case 11:
+a: 2593198244
+b: 4174386727
+GCD: 7
+Coefficients (a,b): -97289311, 60437733
+Time: 0.000003146 seconds
+
+Case 12:
+a: 46645361
+b: 1258149463
+GCD: 1
+Coefficients (a,b): -107477284, 3984675
+Time: 0.000002806 seconds
+
+Case 13:
+a: 1786706212
+b: 1190984896
+GCD: 4
+Coefficients (a,b): 139032713, -208575787
+Time: 0.000002094 seconds
+
+Case 14:
+a: 4139333729
+b: 2079264614
+GCD: 1
+Coefficients (a,b): 400399411, -797102387
+Time: 0.000002485 seconds
+
+Case 15:
+a: 267147208
+b: 1046898742
+GCD: 2
+Coefficients (a,b): 217978521, -55623673
+Time: 0.000002605 seconds
+
+Case 16:
+a: 2259396777
+b: 3848133184
+GCD: 1
+Coefficients (a,b): 1857649305, -1090702076
+Time: 0.000002755 seconds
+
+Case 17:
+a: 1640045887
+b: 1123279293
+GCD: 1
+Coefficients (a,b): -51174833, 74717904
+Time: 0.000000942 seconds
+
+Case 18:
+a: 4256498311
+b: 936322919
+GCD: 1
+Coefficients (a,b): -253045474, 1150337785
+Time: 0.000001332 seconds
+
+Case 19:
+a: 3687846804
+b: 4214837877
+GCD: 3
+Coefficients (a,b): 545958470, -477696001
+Time: 0.000001022 seconds
+
+Case 20:
+a: 3562878431
+b: 2695504452
+GCD: 1
+Coefficients (a,b): -609226369, 805266520
+Time: 0.000001102 seconds
+
+Case 21:
+a: 443558104
+b: 1787675755
+GCD: 1
+Coefficients (a,b): 827038429, -205204773
+Time: 0.000000771 seconds
+
+Case 22:
+a: 2395860414
+b: 1536542729
+GCD: 1
+Coefficients (a,b): 559962181, -873123277
+Time: 0.000001343 seconds
+
+Case 23:
+a: 3190156820
+b: 2711402494
+GCD: 2
+Coefficients (a,b): -667710016, 785608063
+Time: 0.000001042 seconds
+
+Case 24:
+a: 3964916810
+b: 1932932368
+GCD: 2
+Coefficients (a,b): -187354987, 384310879
+Time: 0.000000982 seconds
+
+Case 25:
+a: 3912462005
+b: 3475669218
+GCD: 1
+Coefficients (a,b): 273582773, -307964348
+Time: 0.000001322 seconds
+
+Case 26:
+a: 3760007759
+b: 1204710643
+GCD: 1
+Coefficients (a,b): -502409478, 1568064121
+Time: 0.000001342 seconds
+
+Case 27:
+a: 3455126418
+b: 3371002528
+GCD: 2
+Coefficients (a,b): -51282551, 52562315
+Time: 0.000000962 seconds
+
+Case 28:
+a: 4259937774
+b: 2164906669
+GCD: 1
+Coefficients (a,b): -417632020, 821784349
+Time: 0.000001163 seconds
+
+Case 29:
+a: 1971572207
+b: 3337091643
+GCD: 1
+Coefficients (a,b): 547324280, -323362213
+Time: 0.000001042 seconds
+
+Case 30:
+a: 4064497068
+b: 2065763580
+GCD: 12
+Coefficients (a,b): -46684806, 91854779
+Time: 0.000000932 seconds
+
+Case 31:
+a: 2930925621
+b: 3694810412
+GCD: 1
+Coefficients (a,b): 1460310101, -1158397810
+Time: 0.000001382 seconds
+
+Case 32:
+a: 4247766954
+b: 3768362405
+GCD: 43
+Coefficients (a,b): 15628502, -17616733
+Time: 0.000001102 seconds
+
+Case 33:
+a: 3225866133
+b: 2870928482
+GCD: 1
+Coefficients (a,b): -813361835, 913919108
+Time: 0.000001152 seconds
+
+Case 34:
+a: 587738038
+b: 1725671525
+GCD: 1
+Coefficients (a,b): -739023623, 251700447
+Time: 0.000000872 seconds
+
+Case 35:
+a: 470626385
+b: 3274310003
+GCD: 1
+Coefficients (a,b): -489809224, 70401747
+Time: 0.000001152 seconds
+
+Case 36:
+a: 2912182805
+b: 3707395293
+GCD: 7
+Coefficients (a,b): 58771526, -46165411
+Time: 0.000000982 seconds
+
+Case 37:
+a: 339979868
+b: 257291230
+GCD: 2
+Coefficients (a,b): -1183276, 1563559
+Time: 0.000000801 seconds
+
+Case 38:
+a: 1231825548
+b: 985206650
+GCD: 2
+Coefficients (a,b): -143170501, 179009227
+Time: 0.000000902 seconds
+
+Case 39:
+a: 3595367983
+b: 907656055
+GCD: 1
+Coefficients (a,b): 319075207, -1263906936
+Time: 0.000001303 seconds
+
+Case 40:
+a: 1590456255
+b: 3681235620
+GCD: 15
+Coefficients (a,b): 94526593, -40839660
+Time: 0.000001112 seconds
+
+Case 41:
+a: 1666972139
+b: 136165221
+GCD: 1
+Coefficients (a,b): 52483610, -642518809
+Time: 0.000001152 seconds
+
+Case 42:
+a: 2734540920
+b: 3027725478
+GCD: 18
+Coefficients (a,b): 33040421, -29841009
+Time: 0.000000801 seconds
+
+Case 43:
+a: 1760039788
+b: 50772760
+GCD: 4
+Coefficients (a,b): -4210427, 145954623
+Time: 0.000000771 seconds
+
+Case 44:
+a: 458911626
+b: 3274393753
+GCD: 1
+Coefficients (a,b): -46505438, 6517813
+Time: 0.000000802 seconds
+
+Case 45:
+a: 2888221145
+b: 3986848942
+GCD: 1
+Coefficients (a,b): -1806838015, 1308940428
+Time: 0.000001372 seconds
+
+Case 46:
+a: 646509016
+b: 485666825
+GCD: 1
+Coefficients (a,b): 204734361, -272537887
+Time: 0.000000892 seconds
+
+Case 47:
+a: 3040779309
+b: 3681199526
+GCD: 1
+Coefficients (a,b): -1279075217, 1056553829
+Time: 0.000001773 seconds
+
+Case 48:
+a: 1395738717
+b: 853058724
+GCD: 3
+Coefficients (a,b): 8546291, -13983081
+Time: 0.000000972 seconds
+
+Case 49:
+a: 1571834825
+b: 1377240808
+GCD: 1
+Coefficients (a,b): 531602081, -606713553
+Time: 0.000001263 seconds
+
+Case 50:
+a: 2141635757
+b: 4215012552
+GCD: 1
+Coefficients (a,b): 1307961317, -664571384
+Time: 0.000004659 seconds
+
+Case 51:
+a: 2939485270
+b: 511990604
+GCD: 2
+Coefficients (a,b): -6665245, 38267088
+Time: 0.000003176 seconds
+
+Case 52:
+a: 4227380850
+b: 1876415635
+GCD: 205
+Coefficients (a,b): 907770, -2045117
+Time: 0.000002054 seconds
+
+Case 53:
+a: 2468751290
+b: 3910504948
+GCD: 2
+Coefficients (a,b): 943667269, -595749096
+Time: 0.000002755 seconds
+
+Case 54:
+a: 2751908799
+b: 1956407207
+GCD: 1
+Coefficients (a,b): 261457329, -367769410
+Time: 0.000002635 seconds
+
+Case 55:
+a: 2743826680
+b: 1099853397
+GCD: 1
+Coefficients (a,b): 118719721, -296172507
+Time: 0.000002295 seconds
+
+Case 56:
+a: 430156416
+b: 3619387083
+GCD: 3
+Coefficients (a,b): 419361478, -49840215
+Time: 0.000002535 seconds
+
+Case 57:
+a: 1946387690
+b: 3871821984
+GCD: 2
+Coefficients (a,b): -331753235, 166774303
+Time: 0.000002154 seconds
+
+Case 58:
+a: 4163726997
+b: 559720698
+GCD: 3
+Coefficients (a,b): -61610731, 458318345
+Time: 0.000002505 seconds
+
+Case 59:
+a: 252972194
+b: 2818700564
+GCD: 2
+Coefficients (a,b): -231698631, 20794444
+Time: 0.000001933 seconds
+
+Case 60:
+a: 2548333137
+b: 3226758498
+GCD: 3
+Coefficients (a,b): -54364325, 42934236
+Time: 0.000002705 seconds
+
+Case 61:
+a: 3965838603
+b: 3923810765
+GCD: 1
+Coefficients (a,b): 1308275982, -1322288893
+Time: 0.000002285 seconds
+
+Case 62:
+a: 456291113
+b: 4119012286
+GCD: 1
+Coefficients (a,b): -471433857, 52223947
+Time: 0.000002585 seconds
+
+Case 63:
+a: 3707237329
+b: 195673623
+GCD: 1
+Coefficients (a,b): 93986686, -1780674091
+Time: 0.000002394 seconds
+
+Case 64:
+a: 1309502149
+b: 565672854
+GCD: 1
+Coefficients (a,b): -256291271, 593300470
+Time: 0.000002825 seconds
+
+Case 65:
+a: 196158418
+b: 2598941034
+GCD: 2
+Coefficients (a,b): 25482878, -1923353
+Time: 0.000001673 seconds
+
+Case 66:
+a: 3424845686
+b: 1511506588
+GCD: 2
+Coefficients (a,b): 191449137, -433794835
+Time: 0.000002164 seconds
+
+Case 67:
+a: 4180361926
+b: 4148683505
+GCD: 1
+Coefficients (a,b): 1314488276, -1324525415
+Time: 0.000002345 seconds
+
+Case 68:
+a: 2059329066
+b: 2899195028
+GCD: 2
+Coefficients (a,b): 545927697, -387778250
+Time: 0.000003206 seconds
+
+Case 69:
+a: 783157265
+b: 657378809
+GCD: 1
+Coefficients (a,b): 208523489, -248420976
+Time: 0.000002364 seconds
+
+Case 70:
+a: 2161995623
+b: 1684836063
+GCD: 1
+Coefficients (a,b): -301643866, 387071913
+Time: 0.000003347 seconds
+
+Case 71:
+a: 2187284151
+b: 2927430397
+GCD: 1
+Coefficients (a,b): 1108230968, -828035411
+Time: 0.000002815 seconds
+
+Case 72:
+a: 1842902562
+b: 1555869033
+GCD: 3
+Coefficients (a,b): 102277078, -121145601
+Time: 0.000001082 seconds
+
+Case 73:
+a: 2192831154
+b: 3913986544
+GCD: 2
+Coefficients (a,b): 723494737, -405341659
+Time: 0.000001383 seconds
+
+Case 74:
+a: 256663995
+b: 1595720524
+GCD: 1
+Coefficients (a,b): 92021307, -14801186
+Time: 0.000001102 seconds
+
+Case 75:
+a: 3860852034
+b: 3489180034
+GCD: 2
+Coefficients (a,b): 803629372, -889233019
+Time: 0.000001152 seconds
+
+Case 76:
+a: 4199805708
+b: 3363435124
+GCD: 28
+Coefficients (a,b): -6297546, 7863529
+Time: 0.000000922 seconds
+
+Case 77:
+a: 157525575
+b: 708786612
+GCD: 3
+Coefficients (a,b): 46112609, -10248381
+Time: 0.000000671 seconds
+
+Case 78:
+a: 3485741231
+b: 2920741389
+GCD: 1
+Coefficients (a,b): 1004745911, -1199107960
+Time: 0.000001162 seconds
+
+Case 79:
+a: 2048091023
+b: 2860100082
+GCD: 1
+Coefficients (a,b): 116892131, -83705366
+Time: 0.000001143 seconds
+
+Case 80:
+a: 3775983134
+b: 1661286869
+GCD: 11
+Coefficients (a,b): 64483624, -146566545
+Time: 0.000001052 seconds
+
+Case 81:
+a: 199359837
+b: 1811598716
+GCD: 1
+Coefficients (a,b): 693816941, -76352026
+Time: 0.000000952 seconds
+
+Case 82:
+a: 682031142
+b: 2283624213
+GCD: 39
+Coefficients (a,b): -21241192, 6343931
+Time: 0.000001082 seconds
+
+Case 83:
+a: 2386451534
+b: 690857670
+GCD: 2
+Coefficients (a,b): 698263, -2412032
+Time: 0.000000861 seconds
+
+Case 84:
+a: 2890221593
+b: 3121955844
+GCD: 7
+Coefficients (a,b): -107041513, 99096114
+Time: 0.000000932 seconds
+
+Case 85:
+a: 3926371911
+b: 537514509
+GCD: 21
+Coefficients (a,b): 6589201, -48132010
+Time: 0.000000952 seconds
+
+Case 86:
+a: 3030884126
+b: 2180366114
+GCD: 2
+Coefficients (a,b): 72862306, -101284461
+Time: 0.000000972 seconds
+
+Case 87:
+a: 1005310517
+b: 3509187210
+GCD: 1
+Coefficients (a,b): 1618220873, -463587254
+Time: 0.000000942 seconds
+
+Case 88:
+a: 3033917264
+b: 1327750512
+GCD: 16
+Coefficients (a,b): -32973739, 75345176
+Time: 0.000000911 seconds
+
+Case 89:
+a: 1899211418
+b: 546959294
+GCD: 2
+Coefficients (a,b): 108644275, -377246442
+Time: 0.000001112 seconds
+
+Case 90:
+a: 861046648
+b: 2625342179
+GCD: 1
+Coefficients (a,b): 1146571905, -376046941
+Time: 0.000001122 seconds
+
+Case 91:
+a: 3705403640
+b: 2668643012
+GCD: 4
+Coefficients (a,b): 230572318, -320149043
+Time: 0.000001212 seconds
+
+Case 92:
+a: 1512283173
+b: 2912470966
+GCD: 1
+Coefficients (a,b): 634599355, -329511929
+Time: 0.000001102 seconds
+
+Case 93:
+a: 1265343422
+b: 1290685616
+GCD: 2
+Coefficients (a,b): 173707271, -170296585
+Time: 0.000000872 seconds
+
+Case 94:
+a: 2373892652
+b: 1576371873
+GCD: 1
+Coefficients (a,b): -680643940, 1024996497
+Time: 0.000001042 seconds
+
+Case 95:
+a: 177066899
+b: 2846615398
+GCD: 1
+Coefficients (a,b): 256350429, -15945665
+Time: 0.000001032 seconds
+
+Case 96:
+a: 11150297
+b: 2603871517
+GCD: 29
+Coefficients (a,b): 39264636, -168139
+Time: 0.000000841 seconds
+
+Case 97:
+a: 32325055
+b: 3498658466
+GCD: 1
+Coefficients (a,b): -519659593, 4801276
+Time: 0.000000981 seconds
+
+Case 98:
+a: 3727455624
+b: 3761899253
+GCD: 1
+Coefficients (a,b): 1259218032, -1247688739
+Time: 0.000001032 seconds
+
+Case 99:
+a: 2314152150
+b: 984984338
+GCD: 2
+Coefficients (a,b): -131377143, 308661454
+Time: 0.000000992 seconds
+
+Case 100:
+a: 4167418620
+b: 1068942043
+GCD: 1
+Coefficients (a,b): -473083493, 1844381527
+Time: 0.000001172 seconds
+
+Case 101:
+a: 4131716590
+b: 2810803040
+GCD: 10
+Coefficients (a,b): -19287965, 28352184
+Time: 0.000001062 seconds
+
+Case 102:
+a: 2196505751
+b: 3778477739
+GCD: 1
+Coefficients (a,b): 27798784, -16159997
+Time: 0.000001032 seconds
+
+Case 103:
+a: 2514627065
+b: 181753790
+GCD: 5
+Coefficients (a,b): -10281177, 142243669
+Time: 0.000001083 seconds
+
+Case 104:
+a: 1819551089
+b: 4073750815
+GCD: 1
+Coefficients (a,b): -782860721, 349666718
+Time: 0.000001022 seconds
+
+Case 105:
+a: 3231495425
+b: 1362564303
+GCD: 1
+Coefficients (a,b): -253305613, 600746642
+Time: 0.000001432 seconds
+
+Case 106:
+a: 443423004
+b: 792025264
+GCD: 4
+Coefficients (a,b): 33757895, -18899684
+Time: 0.000001042 seconds
+
+Case 107:
+a: 1254536781
+b: 685775515
+GCD: 1
+Coefficients (a,b): -217750909, 398346862
+Time: 0.000001192 seconds
+
+Case 108:
+a: 769261405
+b: 3838626909
+GCD: 1
+Coefficients (a,b): -516296018, 103465799
+Time: 0.000000992 seconds
+
+Case 109:
+a: 93095511
+b: 3324745545
+GCD: 3
+Coefficients (a,b): 505365763, -14150642
+Time: 0.000000942 seconds
+
+Case 110:
+a: 356864126
+b: 1831511343
+GCD: 1
+Coefficients (a,b): 759501569, -147986451
+Time: 0.000001021 seconds
+
+Case 111:
+a: 1217176665
+b: 2582169021
+GCD: 3
+Coefficients (a,b): -39818497, 18769548
+Time: 0.000000952 seconds
+
+Case 112:
+a: 465434156
+b: 3947361212
+GCD: 4
+Coefficients (a,b): 187346122, -22090019
+Time: 0.000001123 seconds
+
+Case 113:
+a: 3936121617
+b: 826715226
+GCD: 3
+Coefficients (a,b): 37966455, -180764282
+Time: 0.000001041 seconds
+
+Case 114:
+a: 1302727430
+b: 4043284340
+GCD: 10
+Coefficients (a,b): -117724767, 37930373
+Time: 0.000000901 seconds
+
+Case 115:
+a: 2230153194
+b: 885186823
+GCD: 1
+Coefficients (a,b): -95139805, 239696677
+Time: 0.000000972 seconds
+
+Case 116:
+a: 2376187482
+b: 2287575283
+GCD: 1
+Coefficients (a,b): -294378411, 305781541
+Time: 0.000001232 seconds
+
+Case 117:
+a: 2961691731
+b: 3242347471
+GCD: 1
+Coefficients (a,b): -1092695874, 998112745
+Time: 0.000001142 seconds
+
+Case 118:
+a: 1147022130
+b: 1545078136
+GCD: 2
+Coefficients (a,b): 213266089, -158322688
+Time: 0.000001212 seconds
+
+Case 119:
+a: 1044598748
+b: 3376168805
+GCD: 1
+Coefficients (a,b): 355812352, -110089619
+Time: 0.000000942 seconds
+
+Case 120:
+a: 3948657964
+b: 3403085684
+GCD: 4
+Coefficients (a,b): -46405271, 53844822
+Time: 0.000000902 seconds
+
+Case 121:
+a: 1488604933
+b: 3885221192
+GCD: 1
+Coefficients (a,b): 1347197837, -516172760
+Time: 0.000001373 seconds
+
+Case 122:
+a: 1896636398
+b: 1164503618
+GCD: 2
+Coefficients (a,b): 240663699, -391970900
+Time: 0.000001112 seconds
+
+Case 123:
+a: 3139283017
+b: 464488022
+GCD: 1
+Coefficients (a,b): -40923949, 276588097
+Time: 0.000000882 seconds
+
+Case 124:
+a: 2352043368
+b: 1660915531
+GCD: 1
+Coefficients (a,b): 280938177, -397840085
+Time: 0.000001182 seconds
+
+Case 125:
+a: 3475773149
+b: 4221905433
+GCD: 1
+Coefficients (a,b): -771601360, 635237177
+Time: 0.000001062 seconds
+
+Case 126:
+a: 3236380725
+b: 4251091439
+GCD: 1
+Coefficients (a,b): -2120348592, 1614233759
+Time: 0.000000992 seconds
+
+Case 127:
+a: 2309416907
+b: 2321820402
+GCD: 1
+Coefficients (a,b): -45297745, 45055758
+Time: 0.000000822 seconds
+
+Case 128:
+a: 1366185851
+b: 232002748
+GCD: 1
+Coefficients (a,b): -113121849, 666136375
+Time: 0.000001142 seconds
+
+Case 129:
+a: 2772196197
+b: 311545032
+GCD: 3
+Coefficients (a,b): -51059961, 454342760
+Time: 0.000001163 seconds
+
+Case 130:
+a: 2200489009
+b: 3650179196
+GCD: 1
+Coefficients (a,b): -465843839, 280831212
+Time: 0.000001082 seconds
+
+Case 131:
+a: 2654949131
+b: 3510344296
+GCD: 1
+Coefficients (a,b): -1264592877, 956438878
+Time: 0.000001042 seconds
+
+Case 132:
+a: 1457676120
+b: 3915203869
+GCD: 1
+Coefficients (a,b): 20815815, -7749971
+Time: 0.000001032 seconds
+
+Case 133:
+a: 1312264055
+b: 398160683
+GCD: 1
+Coefficients (a,b): -110557552, 364377267
+Time: 0.000001152 seconds
+
+Case 134:
+a: 2208439043
+b: 3681577180
+GCD: 1
+Coefficients (a,b): -406727313, 243980347
+Time: 0.000000912 seconds
+
+Case 135:
+a: 2448571198
+b: 1588655659
+GCD: 1
+Coefficients (a,b): 528477070, -814533801
+Time: 0.000000902 seconds
+
+Case 136:
+a: 3201807855
+b: 3677446724
+GCD: 1
+Coefficients (a,b): 492418207, -428729116
+Time: 0.000001192 seconds
+
+Case 137:
+a: 588080291
+b: 2918959173
+GCD: 1
+Coefficients (a,b): -74222566, 14953559
+Time: 0.000000992 seconds
+
+Case 138:
+a: 2915164977
+b: 1540965910
+GCD: 1
+Coefficients (a,b): 46537303, -88038233
+Time: 0.000000872 seconds
+
+Case 139:
+a: 4201843890
+b: 2829657469
+GCD: 1
+Coefficients (a,b): -656110439, 974278219
+Time: 0.000000892 seconds
+
+Case 140:
+a: 79852506
+b: 4041547192
+GCD: 2
+Coefficients (a,b): 572047893, -11302468
+Time: 0.000001303 seconds
+
+Case 141:
+a: 441203836
+b: 2209238192
+GCD: 4
+Coefficients (a,b): -173474309, 34644309
+Time: 0.000000782 seconds
+
+Case 142:
+a: 1230202675
+b: 1078759354
+GCD: 1
+Coefficients (a,b): -440805455, 502688619
+Time: 0.000000882 seconds
+
+Case 143:
+a: 601403396
+b: 2245501406
+GCD: 2
+Coefficients (a,b): -194186710, 52008227
+Time: 0.000001182 seconds
+
+Case 144:
+a: 970879809
+b: 4248204479
+GCD: 1
+Coefficients (a,b): -947118621, 216453410
+Time: 0.000001252 seconds
+
+Case 145:
+a: 3264916807
+b: 1429584967
+GCD: 1
+Coefficients (a,b): -631971140, 1443309243
+Time: 0.000001183 seconds
+
+Case 146:
+a: 2385230316
+b: 767032302
+GCD: 6
+Coefficients (a,b): 50917211, -158336585
+Time: 0.000001112 seconds
+
+Case 147:
+a: 1354910555
+b: 2143524329
+GCD: 1
+Coefficients (a,b): 853082523, -539229016
+Time: 0.000001242 seconds
+
+Case 148:
+a: 3158447897
+b: 356540022
+GCD: 1
+Coefficients (a,b): 22445663, -198837305
+Time: 0.000001022 seconds
+
+Case 149:
+a: 1246134578
+b: 1327749210
+GCD: 2
+Coefficients (a,b): 172972444, -162340103
+Time: 0.000001102 seconds
+
+Case 150:
+a: 4039104860
+b: 1194334957
+GCD: 1
+Coefficients (a,b): 588250016, -1989394587
+Time: 0.000000962 seconds
+
+Case 151:
+a: 2928876413
+b: 1061012404
+GCD: 1
+Coefficients (a,b): 106369265, -293627511
+Time: 0.000001042 seconds
+
+Case 152:
+a: 1277939836
+b: 3097769983
+GCD: 1
+Coefficients (a,b): 410471134, -169333881
+Time: 0.000001253 seconds
+
+Case 153:
+a: 2976061675
+b: 108780914
+GCD: 1
+Coefficients (a,b): 10391549, -284295191
+Time: 0.000000952 seconds
+
+Case 154:
+a: 2947482189
+b: 3416589759
+GCD: 3
+Coefficients (a,b): 464480446, -400705949
+Time: 0.000001162 seconds
+
+Case 155:
+a: 3786867047
+b: 1771627295
+GCD: 1
+Coefficients (a,b): 213054538, -455405723
+Time: 0.000001022 seconds
+
+Case 156:
+a: 2671416787
+b: 1786509566
+GCD: 1
+Coefficients (a,b): 370287981, -553701781
+Time: 0.000000972 seconds
+
+Case 157:
+a: 1824156002
+b: 3594540569
+GCD: 1
+Coefficients (a,b): -800416909, 406195251
+Time: 0.000001082 seconds
+
+Case 158:
+a: 623804274
+b: 1900187285
+GCD: 1
+Coefficients (a,b): 839336609, -275542189
+Time: 0.000001192 seconds
+
+Case 159:
+a: 412279486
+b: 3395700289
+GCD: 1
+Coefficients (a,b): 1145702313, -139102253
+Time: 0.000001112 seconds
+
+Case 160:
+a: 2662494046
+b: 726028242
+GCD: 2
+Coefficients (a,b): -27357850, 100326831
+Time: 0.000000901 seconds
+
+Case 161:
+a: 2240309201
+b: 1225327177
+GCD: 1
+Coefficients (a,b): -262107781, 479220966
+Time: 0.000001182 seconds
+
+Case 162:
+a: 4247751790
+b: 2202722190
+GCD: 10
+Coefficients (a,b): -24867737, 47955196
+Time: 0.000000912 seconds
+
+Case 163:
+a: 852468852
+b: 2234700209
+GCD: 1
+Coefficients (a,b): -565460390, 215705609
+Time: 0.000001112 seconds
+
+Case 164:
+a: 3375377892
+b: 1323331274
+GCD: 2
+Coefficients (a,b): -231553038, 590614777
+Time: 0.000001052 seconds
+
+Case 165:
+a: 1115396524
+b: 2231778707
+GCD: 1
+Coefficients (a,b): -876833201, 438222975
+Time: 0.000000821 seconds
+
+Case 166:
+a: 3471526150
+b: 2161522007
+GCD: 1
+Coefficients (a,b): 738784729, -1186529907
+Time: 0.000001042 seconds
+
+Case 167:
+a: 4123663193
+b: 1824962986
+GCD: 1
+Coefficients (a,b): 861285921, -1946150732
+Time: 0.000000901 seconds
+
+Case 168:
+a: 802462474
+b: 1798334444
+GCD: 2
+Coefficients (a,b): -181694075, 81076508
+Time: 0.000001172 seconds
+
+Case 169:
+a: 3881256858
+b: 3872092886
+GCD: 2
+Coefficients (a,b): 629339974, -630829415
+Time: 0.000000972 seconds
+
+Case 170:
+a: 558064211
+b: 1483658814
+GCD: 1
+Coefficients (a,b): -197616979, 74331755
+Time: 0.000001022 seconds
+
+Case 171:
+a: 1168693410
+b: 1196269980
+GCD: 30
+Coefficients (a,b): 8398747, -8205138
+Time: 0.000001041 seconds
+
+Case 172:
+a: 1854466715
+b: 2056626317
+GCD: 1
+Coefficients (a,b): -195780946, 176536323
+Time: 0.000001032 seconds
+
+Case 173:
+a: 1263474907
+b: 1624846003
+GCD: 1
+Coefficients (a,b): -211461607, 164431850
+Time: 0.000001142 seconds
+
+Case 174:
+a: 2388804369
+b: 1668315512
+GCD: 1
+Coefficients (a,b): 533072793, -763288843
+Time: 0.000001112 seconds
+
+Case 175:
+a: 3736020149
+b: 512131400
+GCD: 1
+Coefficients (a,b): -183014851, 1335101052
+Time: 0.000000972 seconds
+
+Case 176:
+a: 2080216581
+b: 2104958150
+GCD: 1
+Coefficients (a,b): -459018529, 453623249
+Time: 0.000001002 seconds
+
+Case 177:
+a: 656686889
+b: 2134262821
+GCD: 1
+Coefficients (a,b): -229527012, 70622689
+Time: 0.000000762 seconds
+
+Case 178:
+a: 1689918911
+b: 2976904280
+GCD: 1
+Coefficients (a,b): 332818231, -188933123
+Time: 0.000000942 seconds
+
+Case 179:
+a: 3464991083
+b: 3986123934
+GCD: 1
+Coefficients (a,b): 121115441, -105281203
+Time: 0.000001042 seconds
+
+Case 180:
+a: 3909330702
+b: 1663977545
+GCD: 31
+Coefficients (a,b): 23505453, -55223455
+Time: 0.000000821 seconds
+
+Case 181:
+a: 124591441
+b: 3183422822
+GCD: 1
+Coefficients (a,b): -538803501, 21087461
+Time: 0.000001142 seconds
+
+Case 182:
+a: 1786409859
+b: 825542247
+GCD: 3
+Coefficients (a,b): -14884604, 32209137
+Time: 0.000000892 seconds
+
+Case 183:
+a: 1910771213
+b: 1135498105
+GCD: 1
+Coefficients (a,b): -155053898, 260918555
+Time: 0.000001052 seconds
+
+Case 184:
+a: 507751163
+b: 402376361
+GCD: 1
+Coefficients (a,b): 144176267, -181933320
+Time: 0.000001132 seconds
+
+Case 185:
+a: 1979051597
+b: 3838375161
+GCD: 1
+Coefficients (a,b): -972060868, 501190877
+Time: 0.000001042 seconds
+
+Case 186:
+a: 2163417676
+b: 4211784538
+GCD: 2
+Coefficients (a,b): -474831948, 243901325
+Time: 0.000000901 seconds
+
+Case 187:
+a: 3180298495
+b: 151665985
+GCD: 5
+Coefficients (a,b): 10029708, -210313903
+Time: 0.000000822 seconds
+
+Case 188:
+a: 20716583
+b: 878983885
+GCD: 1
+Coefficients (a,b): 252925332, -5961143
+Time: 0.000001022 seconds
+
+Case 189:
+a: 2020935896
+b: 2778573035
+GCD: 7
+Coefficients (a,b): -115794993, 84221021
+Time: 0.000000912 seconds
+
+Case 190:
+a: 3122540260
+b: 3674729502
+GCD: 2
+Coefficients (a,b): 572148782, -486173909
+Time: 0.000001242 seconds
+
+Case 191:
+a: 439187312
+b: 747515898
+GCD: 2
+Coefficients (a,b): -81858986, 48094533
+Time: 0.000001122 seconds
+
+Case 192:
+a: 247678403
+b: 891277803
+GCD: 1
+Coefficients (a,b): -415457062, 115451929
+Time: 0.000001243 seconds
+
+Case 193:
+a: 2949820392
+b: 550295658
+GCD: 6
+Coefficients (a,b): 11917007, -63880261
+Time: 0.000001042 seconds
+
+Case 194:
+a: 4051292026
+b: 2981841803
+GCD: 1
+Coefficients (a,b): 307997497, -418462107
+Time: 0.000001413 seconds
+
+Case 195:
+a: 2217170583
+b: 3691229213
+GCD: 1
+Coefficients (a,b): 844005823, -506959816
+Time: 0.000001102 seconds
+
+Case 196:
+a: 2667697825
+b: 506350671
+GCD: 1
+Coefficients (a,b): -154090103, 811820456
+Time: 0.000001242 seconds
+
+Case 197:
+a: 403178645
+b: 570744149
+GCD: 1
+Coefficients (a,b): 226557347, -160042086
+Time: 0.000001102 seconds
+
+Case 198:
+a: 1552151564
+b: 711031782
+GCD: 2
+Coefficients (a,b): -64065506, 139852223
+Time: 0.000001152 seconds
+
+Case 199:
+a: 3568983096
+b: 346919843
+GCD: 1
+Coefficients (a,b): 14180692, -145885717
+Time: 0.000000762 seconds
+
+Case 200:
+a: 947135648
+b: 1185556998
+GCD: 2
+Coefficients (a,b): -12818438, 10240587
+Time: 0.000000891 seconds
+
+Case 201:
+a: 803377269
+b: 3137662722
+GCD: 3
+Coefficients (a,b): -147941683, 37879465
+Time: 0.000001172 seconds
+
+Case 202:
+a: 440927377
+b: 1410538506
+GCD: 1
+Coefficients (a,b): 448963699, -140343837
+Time: 0.000000942 seconds
+
+Case 203:
+a: 2954626912
+b: 1176003888
+GCD: 16
+Coefficients (a,b): 21309913, -53539655
+Time: 0.000001212 seconds
+
+Case 204:
+a: 1235761770
+b: 2064771964
+GCD: 2
+Coefficients (a,b): 231989757, -138845392
+Time: 0.000001042 seconds
+
+Case 205:
+a: 197663108
+b: 1586943856
+GCD: 4
+Coefficients (a,b): -34893959, 4346246
+Time: 0.000000951 seconds
+
+Case 206:
+a: 3337777183
+b: 183479564
+GCD: 1
+Coefficients (a,b): -57379509, 1043822057
+Time: 0.000000831 seconds
+
+Case 207:
+a: 4259767576
+b: 4058021674
+GCD: 2
+Coefficients (a,b): -595555028, 625163245
+Time: 0.000001132 seconds
+
+Case 208:
+a: 2619693639
+b: 141021363
+GCD: 3
+Coefficients (a,b): 12265870, -227857829
+Time: 0.000001012 seconds
+
+Case 209:
+a: 3005722008
+b: 3514386501
+GCD: 9
+Coefficients (a,b): -170617667, 145922845
+Time: 0.000000822 seconds
+
+Case 210:
+a: 514888143
+b: 4188576956
+GCD: 1
+Coefficients (a,b): -1490144125, 183178571
+Time: 0.000001112 seconds
+
+Case 211:
+a: 1084879029
+b: 2849681011
+GCD: 1
+Coefficients (a,b): -283556824, 107950627
+Time: 0.000001072 seconds
+
+Case 212:
+a: 3428753420
+b: 893598034
+GCD: 2
+Coefficients (a,b): -137439062, 527356413
+Time: 0.000001082 seconds
+
+Case 213:
+a: 1931342294
+b: 3859264893
+GCD: 1
+Coefficients (a,b): 1668300233, -834889257
+Time: 0.000001062 seconds
+
+Case 214:
+a: 783943732
+b: 2023166718
+GCD: 2
+Coefficients (a,b): 330971438, -128245973
+Time: 0.000001112 seconds
+
+Case 215:
+a: 1247476726
+b: 4068194314
+GCD: 2
+Coefficients (a,b): -97949089, 30035244
+Time: 0.000001112 seconds
+
+Case 216:
+a: 4166421766
+b: 3361159304
+GCD: 2
+Coefficients (a,b): 106568931, -132100586
+Time: 0.000001042 seconds
+
+Case 217:
+a: 2000133057
+b: 3257365253
+GCD: 1
+Coefficients (a,b): -585051560, 359241557
+Time: 0.000001022 seconds
+
+Case 218:
+a: 2153837749
+b: 3096785429
+GCD: 1
+Coefficients (a,b): -467477425, 325134094
+Time: 0.000001162 seconds
+
+Case 219:
+a: 1217615685
+b: 844825193
+GCD: 1
+Coefficients (a,b): -94456687, 136136972
+Time: 0.000001092 seconds
+
+Case 220:
+a: 145854683
+b: 267977423
+GCD: 1
+Coefficients (a,b): -3249522, 1768649
+Time: 0.000000742 seconds
+
+Case 221:
+a: 1329382359
+b: 1624802099
+GCD: 1
+Coefficients (a,b): -50343505, 41190104
+Time: 0.000000882 seconds
+
+Case 222:
+a: 2670563882
+b: 921998335
+GCD: 1
+Coefficients (a,b): 167612098, -485487661
+Time: 0.000001012 seconds
+
+Case 223:
+a: 1348186315
+b: 2673860136
+GCD: 1
+Coefficients (a,b): 297442003, -149973154
+Time: 0.000000952 seconds
+
+Case 224:
+a: 1517060281
+b: 3521403658
+GCD: 1
+Coefficients (a,b): 153234495, -66015143
+Time: 0.000001022 seconds
+
+Case 225:
+a: 137019221
+b: 2001624081
+GCD: 1
+Coefficients (a,b): 821405105, -56228484
+Time: 0.000001262 seconds
+
+Case 226:
+a: 3699644466
+b: 3074128539
+GCD: 3
+Coefficients (a,b): -116526522, 140237045
+Time: 0.000001252 seconds
+
+Case 227:
+a: 552114048
+b: 2647233029
+GCD: 1
+Coefficients (a,b): 994310385, -207376051
+Time: 0.000001002 seconds
+
+Case 228:
+a: 3279240825
+b: 512448318
+GCD: 3
+Coefficients (a,b): -47360389, 303066896
+Time: 0.000001062 seconds
+
+Case 229:
+a: 3056052522
+b: 587772508
+GCD: 2
+Coefficients (a,b): -109362377, 568616537
+Time: 0.000000882 seconds
+
+Case 230:
+a: 2210019646
+b: 926831562
+GCD: 2
+Coefficients (a,b): -11147971, 26582214
+Time: 0.000000992 seconds
+
+Case 231:
+a: 611776055
+b: 831825873
+GCD: 1
+Coefficients (a,b): -150088468, 110384317
+Time: 0.000001332 seconds
+
+Case 232:
+a: 393443682
+b: 3704165715
+GCD: 3
+Coefficients (a,b): -372003281, 39512903
+Time: 0.000000902 seconds
+
+Case 233:
+a: 1909069525
+b: 1130896925
+GCD: 25
+Coefficients (a,b): -1868009, 3153390
+Time: 0.000000982 seconds
+
+Case 234:
+a: 2324075178
+b: 847279469
+GCD: 1
+Coefficients (a,b): -196502700, 539004029
+Time: 0.000001172 seconds
+
+Case 235:
+a: 1802492864
+b: 58426201
+GCD: 1
+Coefficients (a,b): 13893466, -428624023
+Time: 0.000001032 seconds
+
+Case 236:
+a: 4126444173
+b: 3353323391
+GCD: 1
+Coefficients (a,b): -472968432, 582013007
+Time: 0.000000992 seconds
+
+Case 237:
+a: 2190511865
+b: 3524472909
+GCD: 1
+Coefficients (a,b): 1506071876, -936045871
+Time: 0.000001293 seconds
+
+Case 238:
+a: 1722155255
+b: 1605274849
+GCD: 1
+Coefficients (a,b): -634041492, 680206189
+Time: 0.000001152 seconds
+
+Case 239:
+a: 3494403000
+b: 728045090
+GCD: 10
+Coefficients (a,b): 27287023, -130969711
+Time: 0.000000931 seconds
+
+Case 240:
+a: 255264910
+b: 2724319119
+GCD: 1
+Coefficients (a,b): 1186168429, -111142331
+Time: 0.000001192 seconds
+
+Case 241:
+a: 2761604518
+b: 1072482863
+GCD: 1
+Coefficients (a,b): -396287631, 1020426293
+Time: 0.000001062 seconds
+
+Case 242:
+a: 1164481551
+b: 2334527127
+GCD: 9
+Coefficients (a,b): -127274373, 63485516
+Time: 0.000000911 seconds
+
+Case 243:
+a: 4116055243
+b: 3071535782
+GCD: 1
+Coefficients (a,b): 790220619, -1058946388
+Time: 0.000001123 seconds
+
+Case 244:
+a: 3423297072
+b: 1030458162
+GCD: 102
+Coefficients (a,b): 3061842, -10171781
+Time: 0.000000791 seconds
+
+Case 245:
+a: 1207901122
+b: 351127501
+GCD: 1
+Coefficients (a,b): -38333974, 131871329
+Time: 0.000000952 seconds
+
+Case 246:
+a: 3408035697
+b: 670277233
+GCD: 1
+Coefficients (a,b): 72946726, -370898837
+Time: 0.000000852 seconds
+
+Case 247:
+a: 223903311
+b: 1600642895
+GCD: 1
+Coefficients (a,b): 60636296, -8482009
+Time: 0.000000922 seconds
+
+Case 248:
+a: 3461835126
+b: 3484913563
+GCD: 1
+Coefficients (a,b): -792840876, 787590379
+Time: 0.000000911 seconds
+
+Case 249:
+a: 10629072
+b: 2747743105
+GCD: 1
+Coefficients (a,b): 235986078, -912863
+Time: 0.000000942 seconds
+
+Case 250:
+a: 3470558170
+b: 3814925858
+GCD: 2
+Coefficients (a,b): 475048443, -432166526
+Time: 0.000000972 seconds
+
+Case 251:
+a: 2372595296
+b: 2394502499
+GCD: 1
+Coefficients (a,b): 35299648, -34976693
+Time: 0.000000791 seconds
+
+Case 252:
+a: 2111499730
+b: 2694072693
+GCD: 1
+Coefficients (a,b): 1175447215, -921265593
+Time: 0.000001263 seconds
+
+Case 253:
+a: 1497827548
+b: 2472970229
+GCD: 1
+Coefficients (a,b): -1040201055, 630028529
+Time: 0.000001303 seconds
+
+Case 254:
+a: 887440329
+b: 3234201087
+GCD: 3
+Coefficients (a,b): 470033638, -128973677
+Time: 0.000001272 seconds
+
+Case 255:
+a: 2962674639
+b: 1441971406
+GCD: 1
+Coefficients (a,b): -635677363, 1306062793
+Time: 0.000001253 seconds
+
+Case 256:
+a: 2748691708
+b: 2086110670
+GCD: 14
+Coefficients (a,b): -43235352, 56967569
+Time: 0.000001022 seconds
+
+Case 257:
+a: 3817929938
+b: 2007117405
+GCD: 1
+Coefficients (a,b): 339800132, -646366323
+Time: 0.000001092 seconds
+
+Case 258:
+a: 1253191327
+b: 2605387004
+GCD: 1
+Coefficients (a,b): -14557605, 7002209
+Time: 0.000000882 seconds
+
+Case 259:
+a: 2699412721
+b: 1482886200
+GCD: 1
+Coefficients (a,b): 738683281, -1344682448
+Time: 0.000001223 seconds
+
+Case 260:
+a: 4229549905
+b: 2434910925
+GCD: 5
+Coefficients (a,b): -98520094, 171133839
+Time: 0.000001132 seconds
+
+Case 261:
+a: 295477724
+b: 768741610
+GCD: 2
+Coefficients (a,b): 116753318, -44875943
+Time: 0.000001093 seconds
+
+Case 262:
+a: 1741764787
+b: 2163926939
+GCD: 1
+Coefficients (a,b): -743479623, 598433618
+Time: 0.000001082 seconds
+
+Case 263:
+a: 702731426
+b: 2719604539
+GCD: 1
+Coefficients (a,b): 107130533, -27681963
+Time: 0.000001172 seconds
+
+Case 264:
+a: 3792075576
+b: 49772174
+GCD: 2
+Coefficients (a,b): 4150690, -316235537
+Time: 0.000000682 seconds
+
+Case 265:
+a: 3314539383
+b: 1011066943
+GCD: 1
+Coefficients (a,b): 504573165, -1654121558
+Time: 0.000000782 seconds
+
+Case 266:
+a: 828099812
+b: 3297045042
+GCD: 2
+Coefficients (a,b): -194408810, 48828541
+Time: 0.000000962 seconds
+
+Case 267:
+a: 405557205
+b: 2292436394
+GCD: 1
+Coefficients (a,b): -98775511, 17474474
+Time: 0.000001162 seconds
+
+Case 268:
+a: 2049577348
+b: 2772311744
+GCD: 4
+Coefficients (a,b): -44509071, 32905673
+Time: 0.000000972 seconds
+
+Case 269:
+a: 744578000
+b: 2324621242
+GCD: 2
+Coefficients (a,b): 452762614, -145020219
+Time: 0.000000942 seconds
+
+Case 270:
+a: 4059713355
+b: 2254278604
+GCD: 1
+Coefficients (a,b): -619678265, 1115973919
+Time: 0.000001323 seconds
+
+Case 271:
+a: 3728616342
+b: 750963384
+GCD: 6
+Coefficients (a,b): -5862659, 29108751
+Time: 0.000000992 seconds
+
+Case 272:
+a: 1677350213
+b: 709530803
+GCD: 1
+Coefficients (a,b): 228764516, -540805569
+Time: 0.000001102 seconds
+
+Case 273:
+a: 2281752069
+b: 3538518913
+GCD: 1
+Coefficients (a,b): -1727577749, 1113998314
+Time: 0.000001262 seconds
+
+Case 274:
+a: 4045050904
+b: 1433280699
+GCD: 1
+Coefficients (a,b): -124005674, 349972803
+Time: 0.000001132 seconds
+
+Case 275:
+a: 3726596554
+b: 2109693903
+GCD: 1
+Coefficients (a,b): -397843091, 702756305
+Time: 0.000001242 seconds
+
+Case 276:
+a: 263012879
+b: 517278597
+GCD: 1
+Coefficients (a,b): -184097170, 93605123
+Time: 0.000000982 seconds
+
+Case 277:
+a: 4276122059
+b: 3687137704
+GCD: 1
+Coefficients (a,b): 1532368627, -1777149598
+Time: 0.000000942 seconds
+
+Case 278:
+a: 842345124
+b: 2406206745
+GCD: 3
+Coefficients (a,b): -334962163, 117260807
+Time: 0.000001152 seconds
+
+Case 279:
+a: 3957524009
+b: 353934895
+GCD: 1
+Coefficients (a,b): 24409969, -272940136
+Time: 0.000000782 seconds
+
+Case 280:
+a: 2946929870
+b: 2260907387
+GCD: 1
+Coefficients (a,b): 312830194, -407751617
+Time: 0.000001123 seconds
+
+Case 281:
+a: 2995125268
+b: 3230091273
+GCD: 1
+Coefficients (a,b): -1148707979, 1065147701
+Time: 0.000001132 seconds
+
+Case 282:
+a: 3119093783
+b: 1062349480
+GCD: 1
+Coefficients (a,b): -354285233, 1040193353
+Time: 0.000001072 seconds
+
+Case 283:
+a: 3736812648
+b: 3677073497
+GCD: 1
+Coefficients (a,b): -1743202770, 1771523513
+Time: 0.000000912 seconds
+
+Case 284:
+a: 3364967161
+b: 2348863094
+GCD: 1
+Coefficients (a,b): 107619809, -154175492
+Time: 0.000001212 seconds
+
+Case 285:
+a: 1541907048
+b: 1338776842
+GCD: 2
+Coefficients (a,b): 84353460, -97152259
+Time: 0.000000952 seconds
+
+Case 286:
+a: 2914362987
+b: 3372352995
+GCD: 3
+Coefficients (a,b): -79353396, 68576629
+Time: 0.000000992 seconds
+
+Case 287:
+a: 2906800876
+b: 1276300928
+GCD: 28
+Coefficients (a,b): 3024229, -6887742
+Time: 0.000001032 seconds
+
+Case 288:
+a: 1284800342
+b: 2091274231
+GCD: 1
+Coefficients (a,b): 768264821, -471993051
+Time: 0.000001122 seconds
+
+Case 289:
+a: 2183345704
+b: 2107072571
+GCD: 1
+Coefficients (a,b): -319419357, 330981899
+Time: 0.000000952 seconds
+
+Case 290:
+a: 3611693065
+b: 2786970200
+GCD: 5
+Coefficients (a,b): -70586483, 91474502
+Time: 0.000000911 seconds
+
+Case 291:
+a: 3085694100
+b: 3408404888
+GCD: 4
+Coefficients (a,b): 167472623, -151616167
+Time: 0.000000971 seconds
+
+Case 292:
+a: 110294316
+b: 1841371418
+GCD: 2
+Coefficients (a,b): 234950817, -14073065
+Time: 0.000001162 seconds
+
+Case 293:
+a: 2688459713
+b: 3681932021
+GCD: 1
+Coefficients (a,b): 1813814939, -1324404786
+Time: 0.000001052 seconds
+
+Case 294:
+a: 2615983412
+b: 2084843017
+GCD: 1
+Coefficients (a,b): 451477699, -566497411
+Time: 0.000001422 seconds
+
+Case 295:
+a: 2530402952
+b: 51207693
+GCD: 1
+Coefficients (a,b): -3082093, 152300109
+Time: 0.000000871 seconds
+
+Case 296:
+a: 642990546
+b: 514828483
+GCD: 1
+Coefficients (a,b): 242376585, -302714123
+Time: 0.000000862 seconds
+
+Case 297:
+a: 3364672872
+b: 2409674408
+GCD: 8
+Coefficients (a,b): 27851811, -38889998
+Time: 0.000001083 seconds
+
+Case 298:
+a: 1571935120
+b: 3428870560
+GCD: 80
+Coefficients (a,b): -12647429, 5798101
+Time: 0.000000821 seconds
+
+Case 299:
+a: 3613561403
+b: 1043601054
+GCD: 1
+Coefficients (a,b): -76255225, 264040494
+Time: 0.000001082 seconds
+
+Case 300:
+a: 4082163796
+b: 2298930876
+GCD: 4
+Coefficients (a,b): -17189888, 30523727
+Time: 0.000000931 seconds
+
+Case 301:
+a: 4071601309
+b: 176088912
+GCD: 1
+Coefficients (a,b): 27560005, -637253937
+Time: 0.000000962 seconds
+
+Case 302:
+a: 24384673
+b: 2123772785
+GCD: 1
+Coefficients (a,b): 229796342, -2638469
+Time: 0.000000992 seconds
+
+Case 303:
+a: 211973558
+b: 2940200461
+GCD: 1
+Coefficients (a,b): -1036148907, 74701087
+Time: 0.000001042 seconds
+
+Case 304:
+a: 1926231334
+b: 305487710
+GCD: 2
+Coefficients (a,b): -1479757, 9330504
+Time: 0.000000731 seconds
+
+Case 305:
+a: 1800636532
+b: 2240116862
+GCD: 2
+Coefficients (a,b): -381727182, 306837523
+Time: 0.000001122 seconds
+
+Case 306:
+a: 3517128477
+b: 595694224
+GCD: 1
+Coefficients (a,b): -85685723, 505910053
+Time: 0.000000992 seconds
+
+Case 307:
+a: 3122473922
+b: 3707435500
+GCD: 2
+Coefficients (a,b): -694997859, 585340646
+Time: 0.000001082 seconds
+
+Case 308:
+a: 1869971770
+b: 2499155460
+GCD: 10
+Coefficients (a,b): -123578207, 92466340
+Time: 0.000001133 seconds
+
+Case 309:
+a: 2049546750
+b: 1099121615
+GCD: 5
+Coefficients (a,b): 47791937, -89118263
+Time: 0.000001012 seconds
+
+Case 310:
+a: 3007938620
+b: 2573398278
+GCD: 2
+Coefficients (a,b): 443116153, -517940111
+Time: 0.000001122 seconds
+
+Case 311:
+a: 1255017844
+b: 4278381010
+GCD: 2
+Coefficients (a,b): 567953723, -166603221
+Time: 0.000001162 seconds
+
+Case 312:
+a: 2663469559
+b: 2217734031
+GCD: 1
+Coefficients (a,b): -604047707, 725453394
+Time: 0.000001152 seconds
+
+Case 313:
+a: 4005587152
+b: 4208651252
+GCD: 4
+Coefficients (a,b): 261465978, -248850451
+Time: 0.000000952 seconds
+
+Case 314:
+a: 2756440220
+b: 2181016122
+GCD: 2
+Coefficients (a,b): 298800727, -377634229
+Time: 0.000001152 seconds
+
+Case 315:
+a: 3981865435
+b: 992036510
+GCD: 5
+Coefficients (a,b): -4986071, 20013239
+Time: 0.000000791 seconds
+
+Case 316:
+a: 1315080350
+b: 4271625347
+GCD: 1
+Coefficients (a,b): -1779852623, 547952833
+Time: 0.000000742 seconds
+
+Case 317:
+a: 1083643430
+b: 1185547168
+GCD: 2
+Coefficients (a,b): 224893771, -205563021
+Time: 0.000001252 seconds
+
+Case 318:
+a: 3421622057
+b: 2453688025
+GCD: 1
+Coefficients (a,b): 958223193, -1336224320
+Time: 0.000001383 seconds
+
+Case 319:
+a: 4117778411
+b: 2514156334
+GCD: 29
+Coefficients (a,b): 6438265, -10544829
+Time: 0.000000992 seconds
+
+Case 320:
+a: 2135251638
+b: 4238346982
+GCD: 2
+Coefficients (a,b): -931481454, 469274297
+Time: 0.000001052 seconds
+
+Case 321:
+a: 1167389264
+b: 3125930544
+GCD: 16
+Coefficients (a,b): 14150996, -5284737
+Time: 0.000000861 seconds
+
+Case 322:
+a: 1045305279
+b: 3026663240
+GCD: 1
+Coefficients (a,b): -288985641, 99805691
+Time: 0.000001042 seconds
+
+Case 323:
+a: 1222151085
+b: 39536277
+GCD: 3
+Coefficients (a,b): 4391808, -135760201
+Time: 0.000000842 seconds
+
+Case 324:
+a: 2229164437
+b: 4057281726
+GCD: 1
+Coefficients (a,b): -1759151057, 966518285
+Time: 0.000001342 seconds
+
+Case 325:
+a: 3612635110
+b: 1281577764
+GCD: 2
+Coefficients (a,b): -10193449, 28734278
+Time: 0.000000852 seconds
+
+Case 326:
+a: 1351497958
+b: 1973941921
+GCD: 1
+Coefficients (a,b): -185652524, 127110633
+Time: 0.000001293 seconds
+
+Case 327:
+a: 2035957236
+b: 236823644
+GCD: 4
+Coefficients (a,b): -9845060, 84637331
+Time: 0.000001052 seconds
+
+Case 328:
+a: 3813974085
+b: 1139477245
+GCD: 5
+Coefficients (a,b): 62084608, -207805015
+Time: 0.000000871 seconds
+
+Case 329:
+a: 4255261500
+b: 939415705
+GCD: 5
+Coefficients (a,b): 67506114, -305781739
+Time: 0.000001302 seconds
+
+Case 330:
+a: 2778220280
+b: 3595054183
+GCD: 1
+Coefficients (a,b): 1610149987, -1244307073
+Time: 0.000001152 seconds
+
+Case 331:
+a: 1264205454
+b: 2759216596
+GCD: 2
+Coefficients (a,b): 214551909, -98302429
+Time: 0.000001082 seconds
+
+Case 332:
+a: 1519698795
+b: 3567285867
+GCD: 3
+Coefficients (a,b): -59745898, 25452339
+Time: 0.000000921 seconds
+
+Case 333:
+a: 1310704156
+b: 845385056
+GCD: 4
+Coefficients (a,b): 69444071, -107667662
+Time: 0.000000911 seconds
+
+Case 334:
+a: 4012960907
+b: 909342746
+GCD: 1
+Coefficients (a,b): -44472881, 196260358
+Time: 0.000000972 seconds
+
+Case 335:
+a: 2106022561
+b: 201004336
+GCD: 1
+Coefficients (a,b): -35954063, 376708629
+Time: 0.000001132 seconds
+
+Case 336:
+a: 39258672
+b: 1870530878
+GCD: 2
+Coefficients (a,b): -249202354, 5230255
+Time: 0.000000961 seconds
+
+Case 337:
+a: 2539834803
+b: 644482716
+GCD: 3
+Coefficients (a,b): -72781075, 286822133
+Time: 0.000001052 seconds
+
+Case 338:
+a: 512824919
+b: 339658990
+GCD: 1
+Coefficients (a,b): 49054539, -74063666
+Time: 0.000000962 seconds
+
+Case 339:
+a: 5171548
+b: 912107214
+GCD: 2
+Coefficients (a,b): -212524564, 1204991
+Time: 0.000000941 seconds
+
+Case 340:
+a: 3480442231
+b: 502296897
+GCD: 1
+Coefficients (a,b): 148867105, -1031508182
+Time: 0.000000992 seconds
+
+Case 341:
+a: 821029188
+b: 3948811428
+GCD: 12
+Coefficients (a,b): 28491470, -5923891
+Time: 0.000000912 seconds
+
+Case 342:
+a: 1696517569
+b: 2035756595
+GCD: 1
+Coefficients (a,b): -661231501, 551043706
+Time: 0.000000861 seconds
+
+Case 343:
+a: 3519919996
+b: 3240630499
+GCD: 1
+Coefficients (a,b): 699951295, -760275681
+Time: 0.000001272 seconds
+
+Case 344:
+a: 3005897870
+b: 71382449
+GCD: 1
+Coefficients (a,b): 23844298, -1004077691
+Time: 0.000000652 seconds
+
+Case 345:
+a: 3658950250
+b: 1627007034
+GCD: 2
+Coefficients (a,b): -242683795, 545767728
+Time: 0.000000781 seconds
+
+Case 346:
+a: 938964732
+b: 2625692334
+GCD: 6
+Coefficients (a,b): -187205330, 66945849
+Time: 0.000001052 seconds
+
+Case 347:
+a: 1532578957
+b: 449125195
+GCD: 1
+Coefficients (a,b): -109788612, 374638783
+Time: 0.000000771 seconds
+
+Case 348:
+a: 2903457727
+b: 1441616070
+GCD: 1
+Coefficients (a,b): -650061167, 1309242563
+Time: 0.000001313 seconds
+
+Case 349:
+a: 3468257516
+b: 1395501712
+GCD: 68
+Coefficients (a,b): -3069397, 7628410
+Time: 0.000000872 seconds
+
+Case 350:
+a: 1545707811
+b: 2612757613
+GCD: 1
+Coefficients (a,b): 260810386, -154295465
+Time: 0.000000922 seconds
+
+Case 351:
+a: 3642488247
+b: 1154692460
+GCD: 1
+Coefficients (a,b): 14735263, -46482526
+Time: 0.000000902 seconds
+
+Case 352:
+a: 2471097646
+b: 1245765860
+GCD: 2
+Coefficients (a,b): -83419433, 165470552
+Time: 0.000000861 seconds
+
+Case 353:
+a: 3423317448
+b: 4085711688
+GCD: 24
+Coefficients (a,b): 7989184, -6693941
+Time: 0.000000992 seconds
+
+Case 354:
+a: 4063879885
+b: 1772740545
+GCD: 5
+Coefficients (a,b): -19674265, 45101834
+Time: 0.000000951 seconds
+
+Case 355:
+a: 2977314156
+b: 2824523501
+GCD: 1
+Coefficients (a,b): 442382354, -466312723
+Time: 0.000001002 seconds
+
+Case 356:
+a: 3178597354
+b: 1707303302
+GCD: 2
+Coefficients (a,b): -147111865, 273887706
+Time: 0.000000952 seconds
+
+Case 357:
+a: 2545182117
+b: 4054770861
+GCD: 3
+Coefficients (a,b): -405214455, 254353358
+Time: 0.000001122 seconds
+
+Case 358:
+a: 2309460187
+b: 3129484462
+GCD: 1
+Coefficients (a,b): 659206761, -486473663
+Time: 0.000001162 seconds
+
+Case 359:
+a: 980028827
+b: 420689084
+GCD: 1
+Coefficients (a,b): 191841967, -446911187
+Time: 0.000000922 seconds
+
+Case 360:
+a: 2817650424
+b: 3626285387
+GCD: 1
+Coefficients (a,b): -1072799648, 833573219
+Time: 0.000001393 seconds
+
+Case 361:
+a: 1147845811
+b: 3047202400
+GCD: 1
+Coefficients (a,b): -499673509, 188221217
+Time: 0.000001032 seconds
+
+Case 362:
+a: 551244995
+b: 862194732
+GCD: 7
+Coefficients (a,b): 32555117, -20814144
+Time: 0.000001153 seconds
+
+Case 363:
+a: 2669795015
+b: 1336152971
+GCD: 1
+Coefficients (a,b): 527085367, -1053180224
+Time: 0.000001092 seconds
+
+Case 364:
+a: 4202405463
+b: 330457574
+GCD: 1
+Coefficients (a,b): -11738297, 149275088
+Time: 0.000001052 seconds
+
+Case 365:
+a: 950686774
+b: 2642631762
+GCD: 2
+Coefficients (a,b): 64691447, -23272748
+Time: 0.000000981 seconds
+
+Case 366:
+a: 2532858286
+b: 1600038359
+GCD: 1
+Coefficients (a,b): -241909968, 382943111
+Time: 0.000001292 seconds
+
+Case 367:
+a: 3521736836
+b: 1789311533
+GCD: 1
+Coefficients (a,b): -287098099, 565068705
+Time: 0.000000922 seconds
+
+Case 368:
+a: 2768697620
+b: 1984255502
+GCD: 2
+Coefficients (a,b): -312765284, 436411791
+Time: 0.000001102 seconds
+
+Case 369:
+a: 4135621011
+b: 3811703875
+GCD: 1
+Coefficients (a,b): -123677034, 134187061
+Time: 0.000000912 seconds
+
+Case 370:
+a: 1517223967
+b: 1312926165
+GCD: 1
+Coefficients (a,b): -493742327, 570571074
+Time: 0.000001022 seconds
+
+Case 371:
+a: 2819253876
+b: 2398981393
+GCD: 1
+Coefficients (a,b): -5288796, 6215329
+Time: 0.000000981 seconds
+
+Case 372:
+a: 800696306
+b: 2905397507
+GCD: 1
+Coefficients (a,b): -834377121, 229945361
+Time: 0.000001133 seconds
+
+Case 373:
+a: 2046938483
+b: 3509692329
+GCD: 1
+Coefficients (a,b): -1177147249, 686541092
+Time: 0.000000992 seconds
+
+Case 374:
+a: 924801453
+b: 3781576340
+GCD: 1
+Coefficients (a,b): -688141803, 168288164
+Time: 0.000000862 seconds
+
+Case 375:
+a: 110496844
+b: 2316516265
+GCD: 1
+Coefficients (a,b): -1025461376, 48914073
+Time: 0.000000941 seconds
+
+Case 376:
+a: 1994211119
+b: 1165955738
+GCD: 1
+Coefficients (a,b): -204588511, 349921245
+Time: 0.000000962 seconds
+
+Case 377:
+a: 3245471753
+b: 2726282704
+GCD: 1
+Coefficients (a,b): 598377737, -712331865
+Time: 0.000001012 seconds
+
+Case 378:
+a: 1170701383
+b: 901347388
+GCD: 1
+Coefficients (a,b): 180711491, -234714379
+Time: 0.000000962 seconds
+
+Case 379:
+a: 2740070507
+b: 3416101719
+GCD: 1
+Coefficients (a,b): -1021292575, 819183354
+Time: 0.000001022 seconds
+
+Case 380:
+a: 1946189824
+b: 3340288012
+GCD: 4
+Coefficients (a,b): -325910964, 189889195
+Time: 0.000001222 seconds
+
+Case 381:
+a: 213942827
+b: 2522536240
+GCD: 7
+Coefficients (a,b): -170910219, 14495338
+Time: 0.000000922 seconds
+
+Case 382:
+a: 4195431401
+b: 3788822445
+GCD: 1
+Coefficients (a,b): -81765544, 90540461
+Time: 0.000000801 seconds
+
+Case 383:
+a: 2523921914
+b: 3859360029
+GCD: 1
+Coefficients (a,b): -1262152012, 825414861
+Time: 0.000000852 seconds
+
+Case 384:
+a: 3607036430
+b: 177926704
+GCD: 2
+Coefficients (a,b): -10328009, 209375568
+Time: 0.000000972 seconds
+
+Case 385:
+a: 120207450
+b: 517191282
+GCD: 6
+Coefficients (a,b): 591773, -137542
+Time: 0.000000922 seconds
+
+Case 386:
+a: 27063491
+b: 3063296642
+GCD: 7
+Coefficients (a,b): 6374593, -56318
+Time: 0.000000852 seconds
+
+Case 387:
+a: 3912424777
+b: 3291139793
+GCD: 1
+Coefficients (a,b): 926781594, -1101734809
+Time: 0.000001122 seconds
+
+Case 388:
+a: 2260548019
+b: 22256086
+GCD: 1
+Coefficients (a,b): -5243565, 532588276
+Time: 0.000000792 seconds
+
+Case 389:
+a: 4276313868
+b: 2828397223
+GCD: 1
+Coefficients (a,b): 409421835, -619013573
+Time: 0.000001032 seconds
+
+Case 390:
+a: 3586778319
+b: 958635646
+GCD: 1
+Coefficients (a,b): -48200091, 180342805
+Time: 0.000001042 seconds
+
+Case 391:
+a: 1297033717
+b: 2680258164
+GCD: 1
+Coefficients (a,b): -435587147, 210789850
+Time: 0.000001052 seconds
+
+Case 392:
+a: 2514755120
+b: 1459658627
+GCD: 1
+Coefficients (a,b): -602986687, 1038848283
+Time: 0.000001382 seconds
+
+Case 393:
+a: 2486023459
+b: 529216843
+GCD: 1
+Coefficients (a,b): -117928321, 553974380
+Time: 0.000001142 seconds
+
+Case 394:
+a: 1033397668
+b: 4022292915
+GCD: 1
+Coefficients (a,b): -852309098, 218973171
+Time: 0.000001222 seconds
+
+Case 395:
+a: 831354372
+b: 2034535665
+GCD: 3
+Coefficients (a,b): 192434059, -78632633
+Time: 0.000001182 seconds
+
+Case 396:
+a: 1425362952
+b: 183904209
+GCD: 3
+Coefficients (a,b): -2462654, 19086979
+Time: 0.000000882 seconds
+
+Case 397:
+a: 524569989
+b: 598231461
+GCD: 3
+Coefficients (a,b): 98393538, -86278139
+Time: 0.000000822 seconds
+
+Case 398:
+a: 1260032150
+b: 1523146116
+GCD: 2
+Coefficients (a,b): 113081923, -93547728
+Time: 0.000001193 seconds
+
+Case 399:
+a: 1406082083
+b: 2271978983
+GCD: 1
+Coefficients (a,b): 822926504, -509292657
+Time: 0.000001262 seconds
+
+Case 400:
+a: 706082426
+b: 3214507512
+GCD: 2
+Coefficients (a,b): -623129603, 136873490
+Time: 0.000001292 seconds
+
+Case 401:
+a: 265133298
+b: 221877922
+GCD: 2
+Coefficients (a,b): 46217090, -55227169
+Time: 0.000001042 seconds
+
+Case 402:
+a: 2484403813
+b: 2886893194
+GCD: 1
+Coefficients (a,b): 1046168545, -900312186
+Time: 0.000001163 seconds
+
+Case 403:
+a: 235867741
+b: 3527608343
+GCD: 1
+Coefficients (a,b): -148596978, 9935693
+Time: 0.000000872 seconds
+
+Case 404:
+a: 836742592
+b: 1878875939
+GCD: 1
+Coefficients (a,b): 156277994, -69597173
+Time: 0.000000942 seconds
+
+Case 405:
+a: 3702344572
+b: 1178861609
+GCD: 1
+Coefficients (a,b): -511354227, 1605964205
+Time: 0.000001172 seconds
+
+Case 406:
+a: 3945694543
+b: 273427269
+GCD: 17
+Coefficients (a,b): -6822127, 98446762
+Time: 0.000000762 seconds
+
+Case 407:
+a: 2206512646
+b: 1767754913
+GCD: 1
+Coefficients (a,b): -500990604, 625336745
+Time: 0.000000842 seconds
+
+Case 408:
+a: 3772018124
+b: 1216933813
+GCD: 1
+Coefficients (a,b): 98507051, -305333271
+Time: 0.000000862 seconds
+
+Case 409:
+a: 2724456726
+b: 547001576
+GCD: 2
+Coefficients (a,b): -125659841, 625875343
+Time: 0.000000912 seconds
+
+Case 410:
+a: 3234023852
+b: 3452983337
+GCD: 1
+Coefficients (a,b): 826424256, -774019303
+Time: 0.000001163 seconds
+
+Case 411:
+a: 1857491442
+b: 831532970
+GCD: 2
+Coefficients (a,b): -122470229, 273575926
+Time: 0.000001252 seconds
+
+Case 412:
+a: 1507570332
+b: 2754466583
+GCD: 1
+Coefficients (a,b): 1260146979, -689701669
+Time: 0.000001383 seconds
+
+Case 413:
+a: 3969036278
+b: 2427991793
+GCD: 1
+Coefficients (a,b): 392232568, -641182271
+Time: 0.000000911 seconds
+
+Case 414:
+a: 3435362423
+b: 3120341065
+GCD: 1
+Coefficients (a,b): 423299997, -466035242
+Time: 0.000000912 seconds
+
+Case 415:
+a: 760489183
+b: 1716325209
+GCD: 1
+Coefficients (a,b): 499610539, -221373204
+Time: 0.000001212 seconds
+
+Case 416:
+a: 1874600238
+b: 1300590316
+GCD: 2
+Coefficients (a,b): -194512837, 280360238
+Time: 0.000001202 seconds
+
+Case 417:
+a: 2899022712
+b: 521904208
+GCD: 8
+Coefficients (a,b): 28505459, -158339350
+Time: 0.000001002 seconds
+
+Case 418:
+a: 3241503273
+b: 1252913013
+GCD: 3
+Coefficients (a,b): 77703889, -201033438
+Time: 0.000001092 seconds
+
+Case 419:
+a: 1795331591
+b: 136838057
+GCD: 1
+Coefficients (a,b): -48322024, 633990705
+Time: 0.000000891 seconds
+
+Case 420:
+a: 3372834380
+b: 2616601890
+GCD: 10
+Coefficients (a,b): -79271839, 102182447
+Time: 0.000000911 seconds
+
+Case 421:
+a: 1764693816
+b: 94263511
+GCD: 1
+Coefficients (a,b): 23121841, -432860705
+Time: 0.000001012 seconds
+
+Case 422:
+a: 1641041215
+b: 3725326155
+GCD: 5
+Coefficients (a,b): -119212444, 52514203
+Time: 0.000001042 seconds
+
+Case 423:
+a: 1169274793
+b: 2144295868
+GCD: 1
+Coefficients (a,b): -1011079115, 551336847
+Time: 0.000000942 seconds
+
+Case 424:
+a: 3120411038
+b: 502223335
+GCD: 1
+Coefficients (a,b): 96129647, -597272151
+Time: 0.000001122 seconds
+
+Case 425:
+a: 2136586497
+b: 2982768578
+GCD: 1
+Coefficients (a,b): 1154660121, -827094412
+Time: 0.000001122 seconds
+
+Case 426:
+a: 178285897
+b: 814279786
+GCD: 1
+Coefficients (a,b): 180143213, -39442210
+Time: 0.000001142 seconds
+
+Case 427:
+a: 3620433442
+b: 3210912006
+GCD: 2
+Coefficients (a,b): -521994226, 588569649
+Time: 0.000001182 seconds
+
+Case 428:
+a: 4081957869
+b: 3648276771
+GCD: 3
+Coefficients (a,b): -529737321, 592708712
+Time: 0.000001132 seconds
+
+Case 429:
+a: 1669277830
+b: 3426830605
+GCD: 55
+Coefficients (a,b): -19816740, 9653131
+Time: 0.000000782 seconds
+
+Case 430:
+a: 433781228
+b: 1824028994
+GCD: 2
+Coefficients (a,b): -236766127, 56306507
+Time: 0.000000902 seconds
+
+Case 431:
+a: 2112460332
+b: 360728520
+GCD: 12
+Coefficients (a,b): 4866231, -28497109
+Time: 0.000000992 seconds
+
+Case 432:
+a: 3022299305
+b: 1810312219
+GCD: 1
+Coefficients (a,b): -275882804, 460583759
+Time: 0.000000971 seconds
+
+Case 433:
+a: 2862097320
+b: 2750547213
+GCD: 3
+Coefficients (a,b): -265987622, 276774911
+Time: 0.000001092 seconds
+
+Case 434:
+a: 2955026506
+b: 1892993166
+GCD: 2
+Coefficients (a,b): -144522616, 225604703
+Time: 0.000001293 seconds
+
+Case 435:
+a: 621478136
+b: 1817157901
+GCD: 1
+Coefficients (a,b): -761441072, 260417093
+Time: 0.000001233 seconds
+
+Case 436:
+a: 3901593224
+b: 3255565842
+GCD: 2
+Coefficients (a,b): -405499868, 485966377
+Time: 0.000000972 seconds
+
+Case 437:
+a: 3727299256
+b: 1420493255
+GCD: 1
+Coefficients (a,b): -554111604, 1453959575
+Time: 0.000001392 seconds
+
+Case 438:
+a: 1151552376
+b: 1255184287
+GCD: 1
+Coefficients (a,b): 544752786, -499776305
+Time: 0.000001042 seconds
+
+Case 439:
+a: 1754575781
+b: 1665042643
+GCD: 1
+Coefficients (a,b): 585159592, -616624957
+Time: 0.000000992 seconds
+
+Case 440:
+a: 1676836313
+b: 1905528402
+GCD: 1
+Coefficients (a,b): -100966411, 88848922
+Time: 0.000000861 seconds
+
+Case 441:
+a: 3824793434
+b: 436806118
+GCD: 14
+Coefficients (a,b): -8270719, 72420670
+Time: 0.000000902 seconds
+
+Case 442:
+a: 3024060420
+b: 941000467
+GCD: 1
+Coefficients (a,b): -448985980, 1442890603
+Time: 0.000001072 seconds
+
+Case 443:
+a: 740251067
+b: 1876737104
+GCD: 1
+Coefficients (a,b): -737331725, 290829544
+Time: 0.000001182 seconds
+
+Case 444:
+a: 62715455
+b: 3013079616
+GCD: 1
+Coefficients (a,b): -705608065, 14686811
+Time: 0.000000951 seconds
+
+Case 445:
+a: 3944412205
+b: 3576721662
+GCD: 1
+Coefficients (a,b): 168441367, -185757307
+Time: 0.000000992 seconds
+
+Case 446:
+a: 4261565379
+b: 959217905
+GCD: 1
+Coefficients (a,b): 289190009, -1284798922
+Time: 0.000001011 seconds
+
+Case 447:
+a: 829078689
+b: 3988075911
+GCD: 3
+Coefficients (a,b): -456743784, 94952189
+Time: 0.000001192 seconds
+
+Case 448:
+a: 2719220254
+b: 2189696536
+GCD: 2
+Coefficients (a,b): 526545771, -653877787
+Time: 0.000001172 seconds
+
+Case 449:
+a: 4142053163
+b: 3808572236
+GCD: 1
+Coefficients (a,b): -1392892125, 1514854616
+Time: 0.000001203 seconds
+
+Case 450:
+a: 3636114623
+b: 2366476022
+GCD: 1
+Coefficients (a,b): 947609671, -1456011956
+Time: 0.000001002 seconds
+
+Case 451:
+a: 526514869
+b: 2300064320
+GCD: 1
+Coefficients (a,b): 950880669, -217669048
+Time: 0.000001253 seconds
+
+Case 452:
+a: 3153323732
+b: 168030072
+GCD: 4
+Coefficients (a,b): -19185121, 360036133
+Time: 0.000001052 seconds
+
+Case 453:
+a: 2722922791
+b: 1260107550
+GCD: 1
+Coefficients (a,b): 220022761, -475439569
+Time: 0.000001032 seconds
+
+Case 454:
+a: 2665240094
+b: 449468029
+GCD: 1
+Coefficients (a,b): -220940584, 1310125893
+Time: 0.000000792 seconds
+
+Case 455:
+a: 2515146453
+b: 3508966356
+GCD: 3
+Coefficients (a,b): 498245611, -357131005
+Time: 0.000001222 seconds
+
+Case 456:
+a: 2938258135
+b: 2979359891
+GCD: 1
+Coefficients (a,b): -33687872, 33223131
+Time: 0.000000942 seconds
+
+Case 457:
+a: 2085582582
+b: 2168672750
+GCD: 2
+Coefficients (a,b): -290015689, 278904076
+Time: 0.000000862 seconds
+
+Case 458:
+a: 2571299440
+b: 1680575449
+GCD: 1
+Coefficients (a,b): -823307333, 1259669529
+Time: 0.000000962 seconds
+
+Case 459:
+a: 4080679119
+b: 1306231162
+GCD: 1
+Coefficients (a,b): -311687463, 973714729
+Time: 0.000000862 seconds
+
+Case 460:
+a: 930851907
+b: 3777345098
+GCD: 1
+Coefficients (a,b): 761201063, -187582930
+Time: 0.000001032 seconds
+
+Case 461:
+a: 1586662167
+b: 404965828
+GCD: 1
+Coefficients (a,b): 43801423, -171614630
+Time: 0.000000992 seconds
+
+Case 462:
+a: 2507083062
+b: 2354377851
+GCD: 3
+Coefficients (a,b): -198267157, 211126787
+Time: 0.000001042 seconds
+
+Case 463:
+a: 1474130257
+b: 79760160
+GCD: 1
+Coefficients (a,b): -10407407, 192350085
+Time: 0.000000952 seconds
+
+Case 464:
+a: 1067373583
+b: 1909562453
+GCD: 19
+Coefficients (a,b): 36734742, -20533339
+Time: 0.000001162 seconds
+
+Case 465:
+a: 3824295579
+b: 946152118
+GCD: 1
+Coefficients (a,b): -269874985, 1090820062
+Time: 0.000000972 seconds
+
+Case 466:
+a: 3470725096
+b: 2911223015
+GCD: 1
+Coefficients (a,b): 1401488631, -1670837905
+Time: 0.000000991 seconds
+
+Case 467:
+a: 4151116430
+b: 3364767079
+GCD: 1
+Coefficients (a,b): -308790717, 380955409
+Time: 0.000001132 seconds
+
+Case 468:
+a: 2797326460
+b: 3601990843
+GCD: 1
+Coefficients (a,b): -782937135, 608033407
+Time: 0.000001122 seconds
+
+Case 469:
+a: 2161991681
+b: 1240560862
+GCD: 1
+Coefficients (a,b): -164229571, 286211646
+Time: 0.000001092 seconds
+
+Case 470:
+a: 3984379586
+b: 1789843815
+GCD: 1
+Coefficients (a,b): 138347801, -307976679
+Time: 0.000001162 seconds
+
+Case 471:
+a: 3790500
+b: 2333640845
+GCD: 5
+Coefficients (a,b): 207642628, -337271
+Time: 0.000000732 seconds
+
+Case 472:
+a: 250301431
+b: 3134325292
+GCD: 1
+Coefficients (a,b): -1168575789, 93320305
+Time: 0.000001112 seconds
+
+Case 473:
+a: 3327688418
+b: 138977421
+GCD: 1
+Coefficients (a,b): 27775769, -665065621
+Time: 0.000000781 seconds
+
+Case 474:
+a: 4281768481
+b: 3754319867
+GCD: 1
+Coefficients (a,b): 544756917, -621290428
+Time: 0.000000962 seconds
+
+Case 475:
+a: 4104973085
+b: 3027834431
+GCD: 1
+Coefficients (a,b): 534630170, -724822479
+Time: 0.000001162 seconds
+
+Case 476:
+a: 2000846620
+b: 3388623720
+GCD: 20
+Coefficients (a,b): -11125381, 6569092
+Time: 0.000001062 seconds
+
+Case 477:
+a: 1373187837
+b: 3208038931
+GCD: 1
+Coefficients (a,b): 280453268, -120046865
+Time: 0.000000951 seconds
+
+Case 478:
+a: 2491860819
+b: 530015788
+GCD: 1
+Coefficients (a,b): -159740033, 751015231
+Time: 0.000001002 seconds
+
+Case 479:
+a: 3753626648
+b: 1908465814
+GCD: 2
+Coefficients (a,b): 131290099, -258225225
+Time: 0.000001001 seconds
+
+Case 480:
+a: 2906864265
+b: 454433173
+GCD: 1
+Coefficients (a,b): 69806154, -446527733
+Time: 0.000001032 seconds
+
+Case 481:
+a: 2958585888
+b: 3337789793
+GCD: 1
+Coefficients (a,b): -841196428, 745628705
+Time: 0.000001062 seconds
+
+Case 482:
+a: 1607669049
+b: 4200498752
+GCD: 1
+Coefficients (a,b): 1690897929, -647162260
+Time: 0.000001263 seconds
+
+Case 483:
+a: 3505264979
+b: 1788399031
+GCD: 1
+Coefficients (a,b): -457289924, 896288987
+Time: 0.000000781 seconds
+
+Case 484:
+a: 3233187893
+b: 3727687417
+GCD: 1
+Coefficients (a,b): -1365210610, 1184107443
+Time: 0.000001102 seconds
+
+Case 485:
+a: 203940588
+b: 2343529402
+GCD: 2
+Coefficients (a,b): 246812315, -21478309
+Time: 0.000000872 seconds
+
+Case 486:
+a: 2730328885
+b: 3013292826
+GCD: 1
+Coefficients (a,b): -567093311, 513840286
+Time: 0.000001193 seconds
+
+Case 487:
+a: 83544559
+b: 991983382
+GCD: 1
+Coefficients (a,b): 223514657, -18824341
+Time: 0.000001002 seconds
+
+Case 488:
+a: 3282984546
+b: 4272669818
+GCD: 2
+Coefficients (a,b): 840094614, -645502169
+Time: 0.000001092 seconds
+
+Case 489:
+a: 2619501521
+b: 337912217
+GCD: 1
+Coefficients (a,b): -163535415, 1267729448
+Time: 0.000001042 seconds
+
+Case 490:
+a: 666178464
+b: 1216212710
+GCD: 2
+Coefficients (a,b): -1448627, 793483
+Time: 0.000001032 seconds
+
+Case 491:
+a: 4266141152
+b: 624045588
+GCD: 4
+Coefficients (a,b): -75516151, 516248437
+Time: 0.000000651 seconds
+
+Case 492:
+a: 3209791246
+b: 520191219
+GCD: 1
+Coefficients (a,b): -2696066, 16635823
+Time: 0.000000871 seconds
+
+Case 493:
+a: 3981307630
+b: 1395461452
+GCD: 2
+Coefficients (a,b): -10541897, 30076456
+Time: 0.000000872 seconds
+
+Case 494:
+a: 912737423
+b: 1369986050
+GCD: 37
+Coefficients (a,b): -11216281, 7472718
+Time: 0.000000942 seconds
+
+Case 495:
+a: 687761049
+b: 3109378052
+GCD: 1
+Coefficients (a,b): 547111165, -121015117
+Time: 0.000001082 seconds
+
+Case 496:
+a: 113539586
+b: 2101258239
+GCD: 1
+Coefficients (a,b): 595507436, -32177705
+Time: 0.000000811 seconds
+
+Case 497:
+a: 775892277
+b: 2963100647
+GCD: 1
+Coefficients (a,b): 369458021, -96743128
+Time: 0.000000901 seconds
+
+Case 498:
+a: 2081692694
+b: 2759500352
+GCD: 2
+Coefficients (a,b): -526985245, 397543466
+Time: 0.000001112 seconds
+
+Case 499:
+a: 931447654
+b: 815217660
+GCD: 2
+Coefficients (a,b): 27389393, -31294447
+Time: 0.000000871 seconds
+
+Case 500:
+a: 3381740457
+b: 1689694531
+GCD: 1
+Coefficients (a,b): 258735654, -517831367
+Time: 0.000000992 seconds
+
+Case 501:
+a: 2657791182
+b: 1760948121
+GCD: 3
+Coefficients (a,b): -29348740, 44295923
+Time: 0.000000791 seconds
+
+Case 502:
+a: 462467712
+b: 327254121
+GCD: 3
+Coefficients (a,b): -11849990, 16746123
+Time: 0.000001062 seconds
+
+Case 503:
+a: 4001299761
+b: 1584159199
+GCD: 1
+Coefficients (a,b): -263228152, 664866727
+Time: 0.000000881 seconds
+
+Case 504:
+a: 2686943081
+b: 3079963908
+GCD: 1
+Coefficients (a,b): -86543959, 75500460
+Time: 0.000001052 seconds
+
+Case 505:
+a: 2239964296
+b: 3120460013
+GCD: 1
+Coefficients (a,b): -1058358692, 759723141
+Time: 0.000001223 seconds
+
+Case 506:
+a: 4016855850
+b: 2219620925
+GCD: 25
+Coefficients (a,b): -6452180, 11676533
+Time: 0.000001042 seconds
+
+Case 507:
+a: 1822972420
+b: 2024218962
+GCD: 2
+Coefficients (a,b): 186263129, -167744969
+Time: 0.000001002 seconds
+
+Case 508:
+a: 168508476
+b: 3924051093
+GCD: 9
+Coefficients (a,b): -100691745, 4323953
+Time: 0.000000772 seconds
+
+Case 509:
+a: 1004295924
+b: 1090907618
+GCD: 2
+Coefficients (a,b): -235623212, 216916105
+Time: 0.000001172 seconds
+
+Case 510:
+a: 2248946841
+b: 4133081984
+GCD: 1
+Coefficients (a,b): 1536101673, -835843813
+Time: 0.000001122 seconds
+
+Case 511:
+a: 1131507614
+b: 3658460365
+GCD: 1
+Coefficients (a,b): -1749865846, 541207593
+Time: 0.000000851 seconds
+
+Case 512:
+a: 3274641195
+b: 2729782523
+GCD: 1
+Coefficients (a,b): 1068151229, -1281351898
+Time: 0.000000862 seconds
+
+Case 513:
+a: 867809522
+b: 2976510308
+GCD: 2
+Coefficients (a,b): 729739235, -212757421
+Time: 0.000000862 seconds
+
+Case 514:
+a: 1271156897
+b: 4086878100
+GCD: 1
+Coefficients (a,b): 611283533, -190129791
+Time: 0.000001162 seconds
+
+Case 515:
+a: 483348557
+b: 89987966
+GCD: 1
+Coefficients (a,b): 7496865, -40267594
+Time: 0.000000612 seconds
+
+Case 516:
+a: 1141442329
+b: 849629516
+GCD: 1
+Coefficients (a,b): 401901901, -539938683
+Time: 0.000000972 seconds
+
+Case 517:
+a: 848643336
+b: 3670092383
+GCD: 1
+Coefficients (a,b): 1626097687, -376006057
+Time: 0.000001202 seconds
+
+Case 518:
+a: 71688150
+b: 2422986868
+GCD: 2
+Coefficients (a,b): -506049895, 14972339
+Time: 0.000000982 seconds
+
+Case 519:
+a: 2927598151
+b: 686854102
+GCD: 1
+Coefficients (a,b): -41365249, 176312300
+Time: 0.000001142 seconds
+
+Case 520:
+a: 2160053932
+b: 1262282121
+GCD: 37
+Coefficients (a,b): -4678841, 8006569
+Time: 0.000000892 seconds
+
+Case 521:
+a: 1899005246
+b: 1567351835
+GCD: 1
+Coefficients (a,b): 112896451, -136785467
+Time: 0.000001272 seconds
+
+Case 522:
+a: 1587436434
+b: 1265247963
+GCD: 9
+Coefficients (a,b): 7585700, -9517357
+Time: 0.000000952 seconds
+
+Case 523:
+a: 2798048829
+b: 1343242453
+GCD: 1
+Coefficients (a,b): -566995656, 1181083525
+Time: 0.000001002 seconds
+
+Case 524:
+a: 858663006
+b: 1797227088
+GCD: 6
+Coefficients (a,b): 101254613, -48376519
+Time: 0.000000881 seconds
+
+Case 525:
+a: 1594150769
+b: 2179282071
+GCD: 1
+Coefficients (a,b): -286343362, 209460949
+Time: 0.000001403 seconds
+
+Case 526:
+a: 1024963261
+b: 3893199457
+GCD: 7
+Coefficients (a,b): -191749358, 50481885
+Time: 0.000001082 seconds
+
+Case 527:
+a: 2904088275
+b: 1293706569
+GCD: 3
+Coefficients (a,b): -95172964, 213642487
+Time: 0.000001132 seconds
+
+Case 528:
+a: 2658150820
+b: 376367127
+GCD: 1
+Coefficients (a,b): -162853388, 1150177143
+Time: 0.000000972 seconds
+
+Case 529:
+a: 426246431
+b: 3221404830
+GCD: 1
+Coefficients (a,b): -136308049, 18035864
+Time: 0.000001252 seconds
+
+Case 530:
+a: 1767780491
+b: 144029142
+GCD: 1
+Coefficients (a,b): 5247911, -64411650
+Time: 0.000000872 seconds
+
+Case 531:
+a: 1221668637
+b: 522225943
+GCD: 1
+Coefficients (a,b): -139567884, 326497963
+Time: 0.000001042 seconds
+
+Case 532:
+a: 4283248341
+b: 3667973731
+GCD: 1
+Coefficients (a,b): 1723433784, -2012526653
+Time: 0.000001122 seconds
+
+Case 533:
+a: 870780114
+b: 3047146457
+GCD: 1
+Coefficients (a,b): -361965465, 103438523
+Time: 0.000001132 seconds
+
+Case 534:
+a: 3673055941
+b: 1041764498
+GCD: 1
+Coefficients (a,b): -311291957, 1097553981
+Time: 0.000001262 seconds
+
+Case 535:
+a: 3220100980
+b: 3843160791
+GCD: 1
+Coefficients (a,b): 1879140340, -1574490889
+Time: 0.000001032 seconds
+
+Case 536:
+a: 3961546225
+b: 2807276670
+GCD: 5
+Coefficients (a,b): 264950615, -373890511
+Time: 0.000001042 seconds
+
+Case 537:
+a: 2139622348
+b: 1038214096
+GCD: 4
+Coefficients (a,b): -76899793, 158480333
+Time: 0.000000872 seconds
+
+Case 538:
+a: 2187361703
+b: 837049530
+GCD: 1
+Coefficients (a,b): -340908943, 890856681
+Time: 0.000000992 seconds
+
+Case 539:
+a: 2404960029
+b: 397807895
+GCD: 1
+Coefficients (a,b): 122436014, -740190739
+Time: 0.000000681 seconds
+
+Case 540:
+a: 1124051184
+b: 1528334215
+GCD: 1
+Coefficients (a,b): -584133161, 429615175
+Time: 0.000001252 seconds
+
+Case 541:
+a: 4105816895
+b: 2301025695
+GCD: 5
+Coefficients (a,b): -183733793, 327843932
+Time: 0.000001002 seconds
+
+Case 542:
+a: 2522895524
+b: 1555959907
+GCD: 1
+Coefficients (a,b): -510821116, 828265755
+Time: 0.000001212 seconds
+
+Case 543:
+a: 1822185952
+b: 4128474248
+GCD: 8
+Coefficients (a,b): 32545404, -14364575
+Time: 0.000000932 seconds
+
+Case 544:
+a: 315412399
+b: 82281724
+GCD: 1
+Coefficients (a,b): -18794285, 72044559
+Time: 0.000000891 seconds
+
+Case 545:
+a: 3143596764
+b: 16785516
+GCD: 132
+Coefficients (a,b): -39573, 7411244
+Time: 0.000000741 seconds
+
+Case 546:
+a: 2852365453
+b: 3217793713
+GCD: 1
+Coefficients (a,b): 89957914, -79741857
+Time: 0.000000872 seconds
+
+Case 547:
+a: 4263069501
+b: 1841574091
+GCD: 1
+Coefficients (a,b): 262658966, -608030615
+Time: 0.000001082 seconds
+
+Case 548:
+a: 3551202069
+b: 3866907211
+GCD: 1
+Coefficients (a,b): -1289924178, 1184611153
+Time: 0.000000951 seconds
+
+Case 549:
+a: 3706068739
+b: 3364229868
+GCD: 1
+Coefficients (a,b): -1487976209, 1639169239
+Time: 0.000001092 seconds
+
+Case 550:
+a: 916527988
+b: 4043019024
+GCD: 4
+Coefficients (a,b): -353279507, 80086330
+Time: 0.000000992 seconds
+
+Case 551:
+a: 243238351
+b: 736798155
+GCD: 1
+Coefficients (a,b): -248758844, 82122479
+Time: 0.000000832 seconds
+
+Case 552:
+a: 2978823939
+b: 2497590206
+GCD: 1
+Coefficients (a,b): 317209427, -378329092
+Time: 0.000001062 seconds
+
+Case 553:
+a: 3318593157
+b: 2037599379
+GCD: 9
+Coefficients (a,b): -111313362, 181293617
+Time: 0.000000911 seconds
+
+Case 554:
+a: 2304763526
+b: 238690348
+GCD: 26
+Coefficients (a,b): 1146743, -11072804
+Time: 0.000000821 seconds
+
+Case 555:
+a: 4218987147
+b: 1400084103
+GCD: 3
+Coefficients (a,b): -107124212, 322806089
+Time: 0.000001042 seconds
+
+Case 556:
+a: 3314857742
+b: 1725970963
+GCD: 1
+Coefficients (a,b): 324691550, -623594673
+Time: 0.000001032 seconds
+
+Case 557:
+a: 4209984999
+b: 1007437318
+GCD: 1
+Coefficients (a,b): -482007599, 2014264039
+Time: 0.000000952 seconds
+
+Case 558:
+a: 2105056820
+b: 4180639525
+GCD: 5
+Coefficients (a,b): -325152176, 163722273
+Time: 0.000001072 seconds
+
+Case 559:
+a: 2463856006
+b: 2245785732
+GCD: 2
+Coefficients (a,b): -251913919, 276375263
+Time: 0.000000852 seconds
+
+Case 560:
+a: 2726801641
+b: 1099811684
+GCD: 1
+Coefficients (a,b): -500304159, 1240421630
+Time: 0.000000951 seconds
+
+Case 561:
+a: 2035093576
+b: 3612048959
+GCD: 1
+Coefficients (a,b): 1285944692, -724524449
+Time: 0.000001363 seconds
+
+Case 562:
+a: 2270984666
+b: 2527167782
+GCD: 2
+Coefficients (a,b): -318829254, 286509013
+Time: 0.000001223 seconds
+
+Case 563:
+a: 2037878775
+b: 4175359220
+GCD: 5
+Coefficients (a,b): -301374681, 147092749
+Time: 0.000001132 seconds
+
+Case 564:
+a: 2857624457
+b: 2959171443
+GCD: 1
+Coefficients (a,b): 716962547, -692359246
+Time: 0.000000912 seconds
+
+Case 565:
+a: 2157313532
+b: 3342383063
+GCD: 1
+Coefficients (a,b): -1047637095, 676188707
+Time: 0.000001172 seconds
+
+Case 566:
+a: 2847770041
+b: 3754793266
+GCD: 1
+Coefficients (a,b): 1851842953, -1404504192
+Time: 0.000001082 seconds
+
+Case 567:
+a: 1990415712
+b: 647709442
+GCD: 2
+Coefficients (a,b): 145165764, -446095423
+Time: 0.000000922 seconds
+
+Case 568:
+a: 2905055787
+b: 1884766241
+GCD: 31
+Coefficients (a,b): -15219345, 23458106
+Time: 0.000000912 seconds
+
+Case 569:
+a: 273872659
+b: 28138413
+GCD: 1
+Coefficients (a,b): 10963984, -106713035
+Time: 0.000000991 seconds
+
+Case 570:
+a: 619959645
+b: 1134586400
+GCD: 5
+Coefficients (a,b): 54341449, -29693204
+Time: 0.000000941 seconds
+
+Case 571:
+a: 2096688016
+b: 3417630319
+GCD: 1
+Coefficients (a,b): 217006446, -133131665
+Time: 0.000001252 seconds
+
+Case 572:
+a: 2604111701
+b: 95951730
+GCD: 1
+Coefficients (a,b): 27823331, -755119911
+Time: 0.000000981 seconds
+
+Case 573:
+a: 3243908956
+b: 1891785934
+GCD: 2
+Coefficients (a,b): -416395917, 714008081
+Time: 0.000000942 seconds
+
+Case 574:
+a: 4015409677
+b: 2822387737
+GCD: 1
+Coefficients (a,b): 1144443428, -1628199115
+Time: 0.000001052 seconds
+
+Case 575:
+a: 2688209244
+b: 2228249797
+GCD: 1
+Coefficients (a,b): 785042133, -947091983
+Time: 0.000000882 seconds
+
+Case 576:
+a: 48447503
+b: 2537186347
+GCD: 1
+Coefficients (a,b): 798708255, -15251312
+Time: 0.000001122 seconds
+
+Case 577:
+a: 3843655937
+b: 4127140430
+GCD: 1
+Coefficients (a,b): -674520927, 628189520
+Time: 0.000001123 seconds
+
+Case 578:
+a: 670924951
+b: 1116432298
+GCD: 1
+Coefficients (a,b): 456456285, -274309433
+Time: 0.000001032 seconds
+
+Case 579:
+a: 301383571
+b: 731293172
+GCD: 1
+Coefficients (a,b): -156248369, 64393725
+Time: 0.000001112 seconds
+
+Case 580:
+a: 1207164029
+b: 4202535342
+GCD: 1
+Coefficients (a,b): 1428714485, -410393392
+Time: 0.000000861 seconds
+
+Case 581:
+a: 3354563901
+b: 3066265784
+GCD: 1
+Coefficients (a,b): 486756653, -532522753
+Time: 0.000001072 seconds
+
+Case 582:
+a: 980748590
+b: 1750888557
+GCD: 1
+Coefficients (a,b): 669170729, -374831537
+Time: 0.000001212 seconds
+
+Case 583:
+a: 3927465184
+b: 780112927
+GCD: 1
+Coefficients (a,b): -337423594, 1698753311
+Time: 0.000000771 seconds
+
+Case 584:
+a: 380531838
+b: 3800524800
+GCD: 6
+Coefficients (a,b): 255723837, -25604638
+Time: 0.000001022 seconds
+
+Case 585:
+a: 3675794384
+b: 2350317486
+GCD: 2
+Coefficients (a,b): 582760540, -911412153
+Time: 0.000000941 seconds
+
+Case 586:
+a: 3084739487
+b: 3201623719
+GCD: 107
+Coefficients (a,b): -13064250, 12587303
+Time: 0.000000892 seconds
+
+Case 587:
+a: 1302392046
+b: 727098242
+GCD: 2
+Coefficients (a,b): -123129678, 220552195
+Time: 0.000001002 seconds
+
+Case 588:
+a: 3299529528
+b: 2080704391
+GCD: 1
+Coefficients (a,b): 80750571, -128052257
+Time: 0.000001082 seconds
+
+Case 589:
+a: 4187474600
+b: 3738647396
+GCD: 4
+Coefficients (a,b): 376875756, -422119951
+Time: 0.000000782 seconds
+
+Case 590:
+a: 429758672
+b: 3784214720
+GCD: 16
+Coefficients (a,b): -117378627, 13330238
+Time: 0.000000962 seconds
+
+Case 591:
+a: 2609444552
+b: 2879848136
+GCD: 88
+Coefficients (a,b): -15097670, 13680073
+Time: 0.000000912 seconds
+
+Case 592:
+a: 766109007
+b: 2246328213
+GCD: 3
+Coefficients (a,b): -332533532, 113410379
+Time: 0.000001032 seconds
+
+Case 593:
+a: 848204056
+b: 2794379788
+GCD: 4
+Coefficients (a,b): -172683632, 52416267
+Time: 0.000000822 seconds
+
+Case 594:
+a: 2409997902
+b: 620142952
+GCD: 26
+Coefficients (a,b): -8309069, 32290682
+Time: 0.000001172 seconds
+
+Case 595:
+a: 2074298812
+b: 4171667914
+GCD: 2
+Coefficients (a,b): 327407803, -162798581
+Time: 0.000001172 seconds
+
+Case 596:
+a: 1941854794
+b: 3457029546
+GCD: 2
+Coefficients (a,b): -103948156, 58388921
+Time: 0.000001252 seconds
+
+Case 597:
+a: 105958841
+b: 1217984628
+GCD: 1
+Coefficients (a,b): 503322089, -43786616
+Time: 0.000001031 seconds
+
+Case 598:
+a: 3326520306
+b: 3636353885
+GCD: 1
+Coefficients (a,b): 1313842696, -1201897435
+Time: 0.000001333 seconds
+
+Case 599:
+a: 237323546
+b: 280601933
+GCD: 1
+Coefficients (a,b): 125392827, -106052977
+Time: 0.000001132 seconds
+
+Case 600:
+a: 2075838900
+b: 801944891
+GCD: 1
+Coefficients (a,b): 67944023, -175873489
+Time: 0.000000801 seconds
+
+Case 601:
+a: 246105362
+b: 179374793
+GCD: 1
+Coefficients (a,b): -40164394, 55106253
+Time: 0.000001082 seconds
+
+Case 602:
+a: 3387977091
+b: 1831658149
+GCD: 1
+Coefficients (a,b): 797972147, -1475991224
+Time: 0.000001113 seconds
+
+Case 603:
+a: 3690221380
+b: 300126520
+GCD: 20
+Coefficients (a,b): -1897893, 23335643
+Time: 0.000001032 seconds
+
+Case 604:
+a: 2672465879
+b: 2441874038
+GCD: 1
+Coefficients (a,b): -895523473, 980089836
+Time: 0.000001232 seconds
+
+Case 605:
+a: 3157206798
+b: 3756819206
+GCD: 2
+Coefficients (a,b): 854384703, -718019432
+Time: 0.000001122 seconds
+
+Case 606:
+a: 3887647512
+b: 1023811883
+GCD: 1
+Coefficients (a,b): 143595358, -545264365
+Time: 0.000001122 seconds
+
+Case 607:
+a: 2613617042
+b: 3902129808
+GCD: 2
+Coefficients (a,b): 272858737, -182758719
+Time: 0.000001132 seconds
+
+Case 608:
+a: 96607205
+b: 72334233
+GCD: 1
+Coefficients (a,b): -20832751, 27823532
+Time: 0.000000742 seconds
+
+Case 609:
+a: 2493860312
+b: 2676381285
+GCD: 1
+Coefficients (a,b): 1091681543, -1017232219
+Time: 0.000000881 seconds
+
+Case 610:
+a: 4155986248
+b: 1574039478
+GCD: 2
+Coefficients (a,b): -246874612, 651830851
+Time: 0.000001343 seconds
+
+Case 611:
+a: 265360509
+b: 2821304848
+GCD: 1
+Coefficients (a,b): 147710293, -13893032
+Time: 0.000001032 seconds
+
+Case 612:
+a: 745340795
+b: 916709373
+GCD: 1
+Coefficients (a,b): 425803643, -346204408
+Time: 0.000001142 seconds
+
+Case 613:
+a: 4192665550
+b: 3340662644
+GCD: 2
+Coefficients (a,b): 765996181, -961355917
+Time: 0.000001082 seconds
+
+Case 614:
+a: 1229101396
+b: 3947461120
+GCD: 4
+Coefficients (a,b): -94793731, 29515454
+Time: 0.000001172 seconds
+
+Case 615:
+a: 3516946349
+b: 3730846326
+GCD: 1
+Coefficients (a,b): -1265321185, 1192776741
+Time: 0.000001022 seconds
+
+Case 616:
+a: 1215478517
+b: 2672230447
+GCD: 1
+Coefficients (a,b): -962330933, 437721446
+Time: 0.000001062 seconds
+
+Case 617:
+a: 2917772401
+b: 3983115456
+GCD: 1
+Coefficients (a,b): 1750862545, -1282568499
+Time: 0.000001102 seconds
+
+Case 618:
+a: 2481817707
+b: 3440054273
+GCD: 1
+Coefficients (a,b): -1244536754, 897867623
+Time: 0.000001142 seconds
+
+Case 619:
+a: 819123206
+b: 3499982949
+GCD: 1
+Coefficients (a,b): -263335303, 61630031
+Time: 0.000001002 seconds
+
+Case 620:
+a: 883155930
+b: 4288274546
+GCD: 2
+Coefficients (a,b): 31897129, -6569108
+Time: 0.000000962 seconds
+
+Case 621:
+a: 2107097097
+b: 1835736922
+GCD: 1
+Coefficients (a,b): 243789995, -279827237
+Time: 0.000001082 seconds
+
+Case 622:
+a: 3057629189
+b: 1985485750
+GCD: 1
+Coefficients (a,b): -585999291, 902433340
+Time: 0.000001232 seconds
+
+Case 623:
+a: 2860038324
+b: 1260752176
+GCD: 4
+Coefficients (a,b): 144236669, -327203402
+Time: 0.000001102 seconds
+
+Case 624:
+a: 851780837
+b: 1654571804
+GCD: 1
+Coefficients (a,b): -332947507, 171402840
+Time: 0.000001052 seconds
+
+Case 625:
+a: 2969917799
+b: 1600024633
+GCD: 1
+Coefficients (a,b): 388328349, -720803450
+Time: 0.000000882 seconds
+
+Case 626:
+a: 107881702
+b: 4000210441
+GCD: 1
+Coefficients (a,b): 927338753, -25009405
+Time: 0.000000892 seconds
+
+Case 627:
+a: 1228516242
+b: 2669046166
+GCD: 2
+Coefficients (a,b): 349765105, -160990888
+Time: 0.000001092 seconds
+
+Case 628:
+a: 1904112639
+b: 3284340998
+GCD: 1
+Coefficients (a,b): -410754173, 238136726
+Time: 0.000001132 seconds
+
+Case 629:
+a: 1673530204
+b: 2431555978
+GCD: 2
+Coefficients (a,b): 412855310, -284149671
+Time: 0.000001032 seconds
+
+Case 630:
+a: 1159306382
+b: 1757917774
+GCD: 2
+Coefficients (a,b): -350708203, 231284002
+Time: 0.000001202 seconds
+
+Case 631:
+a: 3667546469
+b: 3501076895
+GCD: 1
+Coefficients (a,b): 63250869, -66258328
+Time: 0.000000952 seconds
+
+Case 632:
+a: 668814263
+b: 3406252682
+GCD: 1
+Coefficients (a,b): -1428975125, 280577818
+Time: 0.000001232 seconds
+
+Case 633:
+a: 2748933710
+b: 1276377233
+GCD: 1
+Coefficients (a,b): -214784973, 462582407
+Time: 0.000000912 seconds
+
+Case 634:
+a: 1997440676
+b: 1998228665
+GCD: 1
+Coefficients (a,b): -354158009, 354018349
+Time: 0.000000831 seconds
+
+Case 635:
+a: 2593019427
+b: 2021954444
+GCD: 1
+Coefficients (a,b): -881701625, 1130722529
+Time: 0.000001242 seconds
+
+Case 636:
+a: 1055567646
+b: 3049064051
+GCD: 1
+Coefficients (a,b): 197513779, -68378083
+Time: 0.000001103 seconds
+
+Case 637:
+a: 2367885262
+b: 861796905
+GCD: 1
+Coefficients (a,b): 173366998, -476345595
+Time: 0.000000932 seconds
+
+Case 638:
+a: 2957390178
+b: 3411645239
+GCD: 1
+Coefficients (a,b): 250190939, -216878419
+Time: 0.000000921 seconds
+
+Case 639:
+a: 2997862248
+b: 1916542070
+GCD: 2
+Coefficients (a,b): 327857519, -512835953
+Time: 0.000001092 seconds
+
+Case 640:
+a: 3803511109
+b: 2698056642
+GCD: 1
+Coefficients (a,b): 1194070387, -1683307871
+Time: 0.000001122 seconds
+
+Case 641:
+a: 2209214623
+b: 3772474433
+GCD: 7
+Coefficients (a,b): 50928843, -29824654
+Time: 0.000001202 seconds
+
+Case 642:
+a: 275626029
+b: 2890608251
+GCD: 1
+Coefficients (a,b): -643950003, 61402088
+Time: 0.000001002 seconds
+
+Case 643:
+a: 1008104694
+b: 348840384
+GCD: 6
+Coefficients (a,b): -18860039, 54503133
+Time: 0.000000731 seconds
+
+Case 644:
+a: 2686065629
+b: 218796646
+GCD: 1
+Coefficients (a,b): 20711387, -254264157
+Time: 0.000001062 seconds
+
+Case 645:
+a: 1803888834
+b: 2351168804
+GCD: 2
+Coefficients (a,b): 125770259, -96494801
+Time: 0.000001182 seconds
+
+Case 646:
+a: 1405877819
+b: 3658690822
+GCD: 1
+Coefficients (a,b): 1698431405, -652634277
+Time: 0.000001122 seconds
+
+Case 647:
+a: 2576560829
+b: 1500433975
+GCD: 1
+Coefficients (a,b): 557166494, -956772099
+Time: 0.000001253 seconds
+
+Case 648:
+a: 4237878347
+b: 203579963
+GCD: 1
+Coefficients (a,b): 13761786, -286476007
+Time: 0.000000932 seconds
+
+Case 649:
+a: 2246550761
+b: 1561107843
+GCD: 1
+Coefficients (a,b): 30731153, -44224424
+Time: 0.000001042 seconds
+
+Case 650:
+a: 1061775745
+b: 3873177014
+GCD: 1
+Coefficients (a,b): 1866581763, -511696531
+Time: 0.000000872 seconds
+
+Case 651:
+a: 694587988
+b: 2159940556
+GCD: 4
+Coefficients (a,b): 17738873, -5704420
+Time: 0.000001012 seconds
+
+Case 652:
+a: 1880185497
+b: 834824132
+GCD: 1
+Coefficients (a,b): 172816505, -389216212
+Time: 0.000001173 seconds
+
+Case 653:
+a: 240708060
+b: 187573262
+GCD: 2
+Coefficients (a,b): 18858476, -24200609
+Time: 0.000001022 seconds
+
+Case 654:
+a: 2296768386
+b: 707157215
+GCD: 1
+Coefficients (a,b): 136052631, -441883891
+Time: 0.000000762 seconds
+
+Case 655:
+a: 252130634
+b: 527196101
+GCD: 1
+Coefficients (a,b): 133806310, -63992639
+Time: 0.000000882 seconds
+
+Case 656:
+a: 1747540511
+b: 3648972079
+GCD: 1
+Coefficients (a,b): 1712911144, -820335577
+Time: 0.000001012 seconds
+
+Case 657:
+a: 544243035
+b: 2636834015
+GCD: 5
+Coefficients (a,b): 96523454, -19922459
+Time: 0.000000941 seconds
+
+Case 658:
+a: 3580978839
+b: 2787782949
+GCD: 3
+Coefficients (a,b): -92956795, 119405392
+Time: 0.000000972 seconds
+
+Case 659:
+a: 3716362360
+b: 3735477139
+GCD: 1
+Coefficients (a,b): 1681738873, -1673133261
+Time: 0.000001143 seconds
+
+Case 660:
+a: 1570742515
+b: 2659219315
+GCD: 5
+Coefficients (a,b): -117899943, 69640910
+Time: 0.000001252 seconds
+
+Case 661:
+a: 1194119580
+b: 2321300468
+GCD: 4
+Coefficients (a,b): -180199134, 92697743
+Time: 0.000001163 seconds
+
+Case 662:
+a: 3043071757
+b: 1593803325
+GCD: 1
+Coefficients (a,b): -206459132, 394195409
+Time: 0.000000941 seconds
+
+Case 663:
+a: 66876247
+b: 1107334050
+GCD: 1
+Coefficients (a,b): 486108133, -29357977
+Time: 0.000001123 seconds
+
+Case 664:
+a: 762385665
+b: 1890084255
+GCD: 15
+Coefficients (a,b): 11168880, -4505087
+Time: 0.000000911 seconds
+
+Case 665:
+a: 354199723
+b: 2448681213
+GCD: 1
+Coefficients (a,b): 990814885, -143320558
+Time: 0.000001062 seconds
+
+Case 666:
+a: 22199496
+b: 2441025080
+GCD: 8
+Coefficients (a,b): 117227503, -1066106
+Time: 0.000000891 seconds
+
+Case 667:
+a: 3223181628
+b: 608159500
+GCD: 4
+Coefficients (a,b): -30594082, 162145429
+Time: 0.000000831 seconds
+
+Case 668:
+a: 2510508664
+b: 1756542557
+GCD: 1
+Coefficients (a,b): 626075211, -894807379
+Time: 0.000001102 seconds
+
+Case 669:
+a: 1667745633
+b: 3825508346
+GCD: 1
+Coefficients (a,b): -1812188991, 790031024
+Time: 0.000001082 seconds
+
+Case 670:
+a: 3341861672
+b: 2437037772
+GCD: 4
+Coefficients (a,b): 219498011, -300993279
+Time: 0.000001232 seconds
+
+Case 671:
+a: 430849883
+b: 1949232042
+GCD: 1
+Coefficients (a,b): 148688483, -32865464
+Time: 0.000001122 seconds
+
+Case 672:
+a: 3351294710
+b: 2557241791
+GCD: 1
+Coefficients (a,b): 385077177, -504648059
+Time: 0.000001243 seconds
+
+Case 673:
+a: 4095999358
+b: 794632357
+GCD: 1
+Coefficients (a,b): 103354369, -532748793
+Time: 0.000001112 seconds
+
+Case 674:
+a: 4018481301
+b: 4079189725
+GCD: 1
+Coefficients (a,b): 1241251176, -1222778291
+Time: 0.000001112 seconds
+
+Case 675:
+a: 2077314472
+b: 1199463615
+GCD: 1
+Coefficients (a,b): 85487203, -148052681
+Time: 0.000001052 seconds
+
+Case 676:
+a: 1655228961
+b: 2368360359
+GCD: 9
+Coefficients (a,b): -24262038, 16956553
+Time: 0.000000912 seconds
+
+Case 677:
+a: 3075922758
+b: 3929131417
+GCD: 1
+Coefficients (a,b): 1373930178, -1075582019
+Time: 0.000001243 seconds
+
+Case 678:
+a: 955379998
+b: 3003936485
+GCD: 1
+Coefficients (a,b): -1145526788, 364326405
+Time: 0.000001092 seconds
+
+Case 679:
+a: 2506426187
+b: 1544302838
+GCD: 1
+Coefficients (a,b): 427286179, -693491744
+Time: 0.000001132 seconds
+
+Case 680:
+a: 2475715114
+b: 10302006
+GCD: 2
+Coefficients (a,b): -364831, 87673956
+Time: 0.000000892 seconds
+
+Case 681:
+a: 2455408053
+b: 3248558920
+GCD: 1
+Coefficients (a,b): 24471077, -18496349
+Time: 0.000000771 seconds
+
+Case 682:
+a: 4275264171
+b: 622269616
+GCD: 1
+Coefficients (a,b): -281700653, 1935406579
+Time: 0.000001323 seconds
+
+Case 683:
+a: 1897360413
+b: 27253313
+GCD: 1
+Coefficients (a,b): -4641129, 323112806
+Time: 0.000001082 seconds
+
+Case 684:
+a: 84808367
+b: 3953425278
+GCD: 1
+Coefficients (a,b): -1734940645, 37217722
+Time: 0.000001293 seconds
+
+Case 685:
+a: 455426809
+b: 510133431
+GCD: 1
+Coefficients (a,b): -39039236, 34852675
+Time: 0.000000902 seconds
+
+Case 686:
+a: 3870297494
+b: 3273954366
+GCD: 2
+Coefficients (a,b): 202382314, -239245779
+Time: 0.000001132 seconds
+
+Case 687:
+a: 3578826876
+b: 470074261
+GCD: 1
+Coefficients (a,b): 115386531, -878474855
+Time: 0.000001072 seconds
+
+Case 688:
+a: 465244434
+b: 4047159615
+GCD: 3
+Coefficients (a,b): 641481847, -73742053
+Time: 0.000001122 seconds
+
+Case 689:
+a: 143857147
+b: 3437201563
+GCD: 1
+Coefficients (a,b): 279351422, -11691691
+Time: 0.000001031 seconds
+
+Case 690:
+a: 2142941218
+b: 2411875169
+GCD: 11
+Coefficients (a,b): 23968080, -21295541
+Time: 0.000000912 seconds
+
+Case 691:
+a: 3585231820
+b: 71324593
+GCD: 1
+Coefficients (a,b): 32394194, -1628340103
+Time: 0.000001072 seconds
+
+Case 692:
+a: 1054385554
+b: 618829467
+GCD: 1
+Coefficients (a,b): -149611199, 254913341
+Time: 0.000001122 seconds
+
+Case 693:
+a: 3320782064
+b: 3571976013
+GCD: 1
+Coefficients (a,b): 257351216, -239253371
+Time: 0.000000962 seconds
+
+Case 694:
+a: 3339599959
+b: 1022405316
+GCD: 1
+Coefficients (a,b): -362281001, 1183360060
+Time: 0.000001242 seconds
+
+Case 695:
+a: 2527200559
+b: 1178146028
+GCD: 1
+Coefficients (a,b): 94853939, -203467925
+Time: 0.000001052 seconds
+
+Case 696:
+a: 424404138
+b: 3526568482
+GCD: 2
+Coefficients (a,b): -485375044, 58412357
+Time: 0.000001223 seconds
+
+Case 697:
+a: 3351709458
+b: 2750865203
+GCD: 1
+Coefficients (a,b): 1138764505, -1387493563
+Time: 0.000001042 seconds
+
+Case 698:
+a: 3709796789
+b: 2914513392
+GCD: 1
+Coefficients (a,b): 621935789, -791643435
+Time: 0.000000912 seconds
+
+Case 699:
+a: 843722333
+b: 1225982059
+GCD: 1
+Coefficients (a,b): 472667, -325290
+Time: 0.000000842 seconds
+
+Case 700:
+a: 3812133076
+b: 3933493313
+GCD: 1
+Coefficients (a,b): 435918854, -422469431
+Time: 0.000000871 seconds
+
+Case 701:
+a: 2160827629
+b: 3855395766
+GCD: 1
+Coefficients (a,b): -1310968595, 734756516
+Time: 0.000001292 seconds
+
+Case 702:
+a: 644994177
+b: 1800703874
+GCD: 1
+Coefficients (a,b): 831261847, -297749707
+Time: 0.000000992 seconds
+
+Case 703:
+a: 411767416
+b: 3672772768
+GCD: 8
+Coefficients (a,b): 57147827, -6407043
+Time: 0.000000771 seconds
+
+Case 704:
+a: 125093023
+b: 3619562961
+GCD: 1
+Coefficients (a,b): 335542276, -11596427
+Time: 0.000001072 seconds
+
+Case 705:
+a: 4224416711
+b: 806348743
+GCD: 1
+Coefficients (a,b): 281476953, -1474642274
+Time: 0.000000922 seconds
+
+Case 706:
+a: 2637384903
+b: 4228064840
+GCD: 1
+Coefficients (a,b): -1487636433, 927958775
+Time: 0.000001142 seconds
+
+Case 707:
+a: 2671555888
+b: 3235543627
+GCD: 1
+Coefficients (a,b): 1296776273, -1070735149
+Time: 0.000000981 seconds
+
+Case 708:
+a: 3918728398
+b: 2048817657
+GCD: 1
+Coefficients (a,b): 397003702, -759340235
+Time: 0.000001102 seconds
+
+Case 709:
+a: 1756117478
+b: 1520370986
+GCD: 2
+Coefficients (a,b): 18921184, -21855075
+Time: 0.000000872 seconds
+
+Case 710:
+a: 3292397373
+b: 3650527081
+GCD: 1
+Coefficients (a,b): -969105194, 874032523
+Time: 0.000001002 seconds
+
+Case 711:
+a: 1553469994
+b: 2928445238
+GCD: 2
+Coefficients (a,b): -260154616, 138005787
+Time: 0.000001312 seconds
+
+Case 712:
+a: 2419058166
+b: 3345354179
+GCD: 1
+Coefficients (a,b): 1630389480, -1178950501
+Time: 0.000001252 seconds
+
+Case 713:
+a: 3617845812
+b: 4145875556
+GCD: 4
+Coefficients (a,b): -501142410, 437315579
+Time: 0.000001162 seconds
+
+Case 714:
+a: 1622882536
+b: 811317697
+GCD: 1
+Coefficients (a,b): -267761562, 535604689
+Time: 0.000000571 seconds
+
+Case 715:
+a: 745774330
+b: 1078265788
+GCD: 2
+Coefficients (a,b): 93618605, -64750596
+Time: 0.000001012 seconds
+
+Case 716:
+a: 2264878911
+b: 3891121065
+GCD: 3
+Coefficients (a,b): -74543642, 43389121
+Time: 0.000001042 seconds
+
+Case 717:
+a: 3506292131
+b: 2521738068
+GCD: 1
+Coefficients (a,b): 1249157003, -1736861344
+Time: 0.000001062 seconds
+
+Case 718:
+a: 3991754565
+b: 548164253
+GCD: 1
+Coefficients (a,b): -198067001, 1442332022
+Time: 0.000000952 seconds
+
+Case 719:
+a: 3053932423
+b: 2474210781
+GCD: 1
+Coefficients (a,b): -743096993, 917208840
+Time: 0.000001092 seconds
+
+Case 720:
+a: 2357912330
+b: 1060112875
+GCD: 5
+Coefficients (a,b): -72542464, 161349583
+Time: 0.000000942 seconds
+
+Case 721:
+a: 1611373392
+b: 2744860404
+GCD: 12
+Coefficients (a,b): -39982860, 23471983
+Time: 0.000001242 seconds
+
+Case 722:
+a: 2118070434
+b: 1747568148
+GCD: 6
+Coefficients (a,b): -143257173, 173629156
+Time: 0.000001082 seconds
+
+Case 723:
+a: 3433625472
+b: 3733107184
+GCD: 368
+Coefficients (a,b): 3407008, -3133687
+Time: 0.000000882 seconds
+
+Case 724:
+a: 778559004
+b: 3755707359
+GCD: 3
+Coefficients (a,b): 309110948, -64078771
+Time: 0.000000841 seconds
+
+Case 725:
+a: 1058573171
+b: 3713647132
+GCD: 1
+Coefficients (a,b): 305435011, -87064090
+Time: 0.000001032 seconds
+
+Case 726:
+a: 2016577218
+b: 3097578899
+GCD: 1
+Coefficients (a,b): 1338706581, -871521043
+Time: 0.000001042 seconds
+
+Case 727:
+a: 1011413060
+b: 270620517
+GCD: 1
+Coefficients (a,b): 50690771, -189450927
+Time: 0.000000982 seconds
+
+Case 728:
+a: 1546616086
+b: 1462745771
+GCD: 1
+Coefficients (a,b): -90307007, 95484993
+Time: 0.000000972 seconds
+
+Case 729:
+a: 396845829
+b: 174902025
+GCD: 3
+Coefficients (a,b): -8724868, 19796383
+Time: 0.000001012 seconds
+
+Case 730:
+a: 492219332
+b: 2067012396
+GCD: 4
+Coefficients (a,b): -211303579, 50317892
+Time: 0.000000952 seconds
+
+Case 731:
+a: 1106787124
+b: 329632439
+GCD: 1
+Coefficients (a,b): -77648869, 260716963
+Time: 0.000001072 seconds
+
+Case 732:
+a: 1864329387
+b: 714287343
+GCD: 3
+Coefficients (a,b): 4591201, -11983288
+Time: 0.000001012 seconds
+
+Case 733:
+a: 855439397
+b: 2869141079
+GCD: 1
+Coefficients (a,b): -206223380, 61485859
+Time: 0.000001152 seconds
+
+Case 734:
+a: 3675003251
+b: 1263407005
+GCD: 1
+Coefficients (a,b): -97466154, 283509931
+Time: 0.000000912 seconds
+
+Case 735:
+a: 407736820
+b: 1153635082
+GCD: 2
+Coefficients (a,b): -123910131, 43794371
+Time: 0.000000961 seconds
+
+Case 736:
+a: 2919408622
+b: 4010195465
+GCD: 1
+Coefficients (a,b): 874968158, -636973835
+Time: 0.000001092 seconds
+
+Case 737:
+a: 635788120
+b: 3929057313
+GCD: 1
+Coefficients (a,b): 1925499145, -311578423
+Time: 0.000000992 seconds
+
+Case 738:
+a: 770355429
+b: 467238769
+GCD: 1
+Coefficients (a,b): -66924782, 110341591
+Time: 0.000001062 seconds
+
+Case 739:
+a: 4105174371
+b: 2000315365
+GCD: 1
+Coefficients (a,b): 850457536, -1745363027
+Time: 0.000001042 seconds
+
+Case 740:
+a: 2709729229
+b: 772939316
+GCD: 1
+Coefficients (a,b): -270912383, 949750113
+Time: 0.000000861 seconds
+
+Case 741:
+a: 3416666557
+b: 3183644372
+GCD: 1
+Coefficients (a,b): 353485005, -379357822
+Time: 0.000000701 seconds
+
+Case 742:
+a: 613286115
+b: 2690362001
+GCD: 1
+Coefficients (a,b): 772444190, -176083849
+Time: 0.000000972 seconds
+
+Case 743:
+a: 663840840
+b: 3977353308
+GCD: 12
+Coefficients (a,b): -113205473, 18894579
+Time: 0.000001092 seconds
+
+Case 744:
+a: 3703848127
+b: 318960461
+GCD: 1
+Coefficients (a,b): -116091933, 1348088372
+Time: 0.000001092 seconds
+
+Case 745:
+a: 1626429232
+b: 2358354572
+GCD: 4
+Coefficients (a,b): 107855066, -74381789
+Time: 0.000001002 seconds
+
+Case 746:
+a: 2611932532
+b: 1134736909
+GCD: 1
+Coefficients (a,b): -316632015, 728822209
+Time: 0.000001313 seconds
+
+Case 747:
+a: 1708337774
+b: 1620412574
+GCD: 22
+Coefficients (a,b): -10373068, 10935921
+Time: 0.000000721 seconds
+
+Case 748:
+a: 2543417297
+b: 458696780
+GCD: 1
+Coefficients (a,b): 156143573, -865796931
+Time: 0.000000922 seconds
+
+Case 749:
+a: 2306358469
+b: 2075841067
+GCD: 1
+Coefficients (a,b): -885843074, 984213921
+Time: 0.000001002 seconds
+
+Case 750:
+a: 3819780514
+b: 2171811866
+GCD: 2
+Coefficients (a,b): 160374904, -282067219
+Time: 0.000001223 seconds
+
+Case 751:
+a: 2221906667
+b: 4013325676
+GCD: 1
+Coefficients (a,b): -1927711737, 1067243455
+Time: 0.000001052 seconds
+
+Case 752:
+a: 3394331367
+b: 3638025837
+GCD: 3
+Coefficients (a,b): -28353076, 26453835
+Time: 0.000000822 seconds
+
+Case 753:
+a: 3677486215
+b: 3545318265
+GCD: 5
+Coefficients (a,b): 73060199, -75783852
+Time: 0.000001122 seconds
+
+Case 754:
+a: 614655644
+b: 1342522923
+GCD: 1
+Coefficients (a,b): 487563392, -223224189
+Time: 0.000000932 seconds
+
+Case 755:
+a: 2162406165
+b: 2820672543
+GCD: 3
+Coefficients (a,b): 333141223, -255395344
+Time: 0.000001143 seconds
+
+Case 756:
+a: 260322771
+b: 2078199800
+GCD: 1
+Coefficients (a,b): 309845331, -38812339
+Time: 0.000001022 seconds
+
+Case 757:
+a: 1688299210
+b: 248592014
+GCD: 2
+Coefficients (a,b): -4159424, 28248503
+Time: 0.000000992 seconds
+
+Case 758:
+a: 2261441355
+b: 141271501
+GCD: 1
+Coefficients (a,b): -66893341, 1070813056
+Time: 0.000000901 seconds
+
+Case 759:
+a: 1703639227
+b: 657991619
+GCD: 1
+Coefficients (a,b): -141773810, 367073709
+Time: 0.000001232 seconds
+
+Case 760:
+a: 988335981
+b: 2771155995
+GCD: 3
+Coefficients (a,b): 384806088, -137241535
+Time: 0.000001012 seconds
+
+Case 761:
+a: 2556205757
+b: 4300405
+GCD: 1
+Coefficients (a,b): -1544822, 918258371
+Time: 0.000001062 seconds
+
+Case 762:
+a: 3459521645
+b: 2497966615
+GCD: 5
+Coefficients (a,b): 62129681, -86045576
+Time: 0.000000852 seconds
+
+Case 763:
+a: 2579604787
+b: 537559621
+GCD: 1
+Coefficients (a,b): -195829687, 939734270
+Time: 0.000001032 seconds
+
+Case 764:
+a: 122965801
+b: 3905441452
+GCD: 1
+Coefficients (a,b): -1588472803, 50014277
+Time: 0.000001172 seconds
+
+Case 765:
+a: 2922408906
+b: 2144402612
+GCD: 2
+Coefficients (a,b): -242548253, 330546685
+Time: 0.000001112 seconds
+
+Case 766:
+a: 533299368
+b: 3520813922
+GCD: 2
+Coefficients (a,b): -421681702, 63872329
+Time: 0.000001272 seconds
+
+Case 767:
+a: 3643803143
+b: 1639156888
+GCD: 1
+Coefficients (a,b): 705270863, -1567798791
+Time: 0.000000932 seconds
+
+Case 768:
+a: 18751139
+b: 1100204893
+GCD: 1
+Coefficients (a,b): 234394653, -3994862
+Time: 0.000001022 seconds
+
+Case 769:
+a: 539002185
+b: 591013579
+GCD: 1
+Coefficients (a,b): -102786279, 93740704
+Time: 0.000000892 seconds
+
+Case 770:
+a: 1907298994
+b: 636128052
+GCD: 2
+Coefficients (a,b): 16134137, -48374888
+Time: 0.000000702 seconds
+
+Case 771:
+a: 1425132518
+b: 2648585339
+GCD: 1
+Coefficients (a,b): -1287133945, 692572149
+Time: 0.000001132 seconds
+
+Case 772:
+a: 1456138972
+b: 2677258028
+GCD: 4
+Coefficients (a,b): 78721416, -42815941
+Time: 0.000000952 seconds
+
+Case 773:
+a: 2115773787
+b: 4163695008
+GCD: 3
+Coefficients (a,b): -18387495, 9343571
+Time: 0.000000782 seconds
+
+Case 774:
+a: 172799294
+b: 4054542318
+GCD: 2
+Coefficients (a,b): -665118122, 28346465
+Time: 0.000000992 seconds
+
+Case 775:
+a: 2670903207
+b: 2166657000
+GCD: 3
+Coefficients (a,b): 89392029, -110196241
+Time: 0.000001112 seconds
+
+Case 776:
+a: 1949262041
+b: 550785390
+GCD: 1
+Coefficients (a,b): 267058361, -945135320
+Time: 0.000000952 seconds
+
+Case 777:
+a: 1431374305
+b: 2807449902
+GCD: 1
+Coefficients (a,b): -695736101, 354720053
+Time: 0.000001142 seconds
+
+Case 778:
+a: 4020518230
+b: 1646430919
+GCD: 1
+Coefficients (a,b): -745366950, 1820156179
+Time: 0.000001082 seconds
+
+Case 779:
+a: 1076213290
+b: 1976117639
+GCD: 1
+Coefficients (a,b): 615178318, -335032221
+Time: 0.000001172 seconds
+
+Case 780:
+a: 2892804478
+b: 3115433861
+GCD: 1
+Coefficients (a,b): -146498789, 136029963
+Time: 0.000001132 seconds
+
+Case 781:
+a: 2662298233
+b: 664245298
+GCD: 1
+Coefficients (a,b): -75740745, 303569257
+Time: 0.000000821 seconds
+
+Case 782:
+a: 1240693666
+b: 514117261
+GCD: 1
+Coefficients (a,b): -19296847, 46568123
+Time: 0.000001112 seconds
+
+Case 783:
+a: 1744493280
+b: 3025248223
+GCD: 1
+Coefficients (a,b): 1297598304, -748253153
+Time: 0.000001212 seconds
+
+Case 784:
+a: 3154825883
+b: 2443012077
+GCD: 11
+Coefficients (a,b): 94023118, -121418379
+Time: 0.000000952 seconds
+
+Case 785:
+a: 1138255761
+b: 810906028
+GCD: 1
+Coefficients (a,b): 14221765, -19962863
+Time: 0.000000922 seconds
+
+Case 786:
+a: 3126678966
+b: 2600501293
+GCD: 1
+Coefficients (a,b): 281417869, -338359121
+Time: 0.000000841 seconds
+
+Case 787:
+a: 4109121232
+b: 25498483
+GCD: 1
+Coefficients (a,b): 10523903, -1695943765
+Time: 0.000000942 seconds
+
+Case 788:
+a: 4227925022
+b: 526371086
+GCD: 2
+Coefficients (a,b): -30200179, 242574290
+Time: 0.000000891 seconds
+
+Case 789:
+a: 3233263467
+b: 4179591541
+GCD: 1
+Coefficients (a,b): -1321864599, 1022572774
+Time: 0.000000911 seconds
+
+Case 790:
+a: 2723783903
+b: 961312955
+GCD: 1
+Coefficients (a,b): -254934848, 722332339
+Time: 0.000000902 seconds
+
+Case 791:
+a: 957181932
+b: 962853023
+GCD: 1
+Coefficients (a,b): -444062692, 441447215
+Time: 0.000001092 seconds
+
+Case 792:
+a: 3969841120
+b: 3424006796
+GCD: 28
+Coefficients (a,b): -1779738, 2063453
+Time: 0.000000821 seconds
+
+Case 793:
+a: 208645257
+b: 3410966898
+GCD: 3
+Coefficients (a,b): -363603719, 22241257
+Time: 0.000001202 seconds
+
+Case 794:
+a: 4286399589
+b: 3417298300
+GCD: 1
+Coefficients (a,b): -93192791, 116893963
+Time: 0.000001102 seconds
+
+Case 795:
+a: 1012332212
+b: 3988378420
+GCD: 4
+Coefficients (a,b): -124345838, 31561523
+Time: 0.000001042 seconds
+
+Case 796:
+a: 2389267231
+b: 1352519117
+GCD: 1
+Coefficients (a,b): 105449456, -186279755
+Time: 0.000001212 seconds
+
+Case 797:
+a: 952501503
+b: 3909523680
+GCD: 3
+Coefficients (a,b): -4017059, 978701
+Time: 0.000000822 seconds
+
+Case 798:
+a: 3403055580
+b: 2227574057
+GCD: 1
+Coefficients (a,b): 1111826453, -1698532627
+Time: 0.000001002 seconds
+
+Case 799:
+a: 1738494885
+b: 2991258341
+GCD: 17
+Coefficients (a,b): 69858877, -40601408
+Time: 0.000001263 seconds
+
+Case 800:
+a: 2684291808
+b: 794839445
+GCD: 1
+Coefficients (a,b): 232889902, -786504067
+Time: 0.000001133 seconds
+
+Case 801:
+a: 1941781370
+b: 1131592518
+GCD: 2
+Coefficients (a,b): -114234620, 196023439
+Time: 0.000000931 seconds
+
+Case 802:
+a: 68296265
+b: 4009311704
+GCD: 1
+Coefficients (a,b): 1854389345, -31588431
+Time: 0.000001092 seconds
+
+Case 803:
+a: 4190290544
+b: 484154718
+GCD: 2
+Coefficients (a,b): 86786026, -751120769
+Time: 0.000001182 seconds
+
+Case 804:
+a: 1057797643
+b: 765331216
+GCD: 1
+Coefficients (a,b): 365630835, -505354319
+Time: 0.000001463 seconds
+
+Case 805:
+a: 2804572961
+b: 2268883680
+GCD: 1
+Coefficients (a,b): 334532801, -413516857
+Time: 0.000001042 seconds
+
+Case 806:
+a: 1361490910
+b: 4158970600
+GCD: 10
+Coefficients (a,b): 199184491, -65205528
+Time: 0.000000992 seconds
+
+Case 807:
+a: 156155724
+b: 2115641099
+GCD: 1
+Coefficients (a,b): -861483151, 63586175
+Time: 0.000000992 seconds
+
+Case 808:
+a: 3673809694
+b: 2782815076
+GCD: 2
+Coefficients (a,b): 400457963, -528675570
+Time: 0.000001082 seconds
+
+Case 809:
+a: 4267570453
+b: 3129113688
+GCD: 1
+Coefficients (a,b): -1429651547, 1949797709
+Time: 0.000001092 seconds
+
+Case 810:
+a: 3168870841
+b: 2798234779
+GCD: 1
+Coefficients (a,b): 279203206, -316184655
+Time: 0.000000922 seconds
+
+Case 811:
+a: 2333153958
+b: 1592183021
+GCD: 1
+Coefficients (a,b): 339550193, -497570233
+Time: 0.000001202 seconds
+
+Case 812:
+a: 1720736711
+b: 2228753235
+GCD: 1
+Coefficients (a,b): -576846124, 445361239
+Time: 0.000001383 seconds
+
+Case 813:
+a: 6324709
+b: 1792666014
+GCD: 1
+Coefficients (a,b): 827341951, -2918947
+Time: 0.000000862 seconds
+
+Case 814:
+a: 2998176885
+b: 2738216645
+GCD: 5
+Coefficients (a,b): -8578765, 9393214
+Time: 0.000000802 seconds
+
+Case 815:
+a: 1089058013
+b: 1274166353
+GCD: 1
+Coefficients (a,b): -181798503, 155387180
+Time: 0.000000912 seconds
+
+Case 816:
+a: 402852398
+b: 2607619388
+GCD: 2
+Coefficients (a,b): 274050169, -42338145
+Time: 0.000000992 seconds
+
+Case 817:
+a: 711258627
+b: 1500064361
+GCD: 1
+Coefficients (a,b): -216882599, 102835334
+Time: 0.000000992 seconds
+
+Case 818:
+a: 1727204757
+b: 953033233
+GCD: 1
+Coefficients (a,b): 341240892, -618438971
+Time: 0.000001152 seconds
+
+Case 819:
+a: 729940569
+b: 2160195940
+GCD: 1
+Coefficients (a,b): -803212171, 271409245
+Time: 0.000001142 seconds
+
+Case 820:
+a: 592298660
+b: 4161762676
+GCD: 4
+Coefficients (a,b): 444988617, -63330416
+Time: 0.000000852 seconds
+
+Case 821:
+a: 3063743618
+b: 3436792721
+GCD: 1
+Coefficients (a,b): 1273762124, -1135500711
+Time: 0.000001182 seconds
+
+Case 822:
+a: 3427116772
+b: 776390525
+GCD: 1
+Coefficients (a,b): 133399283, -588846599
+Time: 0.000001273 seconds
+
+Case 823:
+a: 15473240
+b: 1393573126
+GCD: 2
+Coefficients (a,b): 204663119, -2272433
+Time: 0.000000932 seconds
+
+Case 824:
+a: 1133063749
+b: 3463047576
+GCD: 1
+Coefficients (a,b): 324831061, -106280463
+Time: 0.000001112 seconds
+
+Case 825:
+a: 2521246235
+b: 3226341775
+GCD: 5
+Coefficients (a,b): -258015762, 201628133
+Time: 0.000000901 seconds
+
+Case 826:
+a: 1323174548
+b: 2408499017
+GCD: 1
+Coefficients (a,b): 590089516, -324181751
+Time: 0.000001122 seconds
+
+Case 827:
+a: 1480479153
+b: 997479583
+GCD: 1
+Coefficients (a,b): -281723814, 418140121
+Time: 0.000001052 seconds
+
+Case 828:
+a: 2141522117
+b: 3902117148
+GCD: 1
+Coefficients (a,b): 1461256469, -801952614
+Time: 0.000001433 seconds
+
+Case 829:
+a: 2773395785
+b: 2660153216
+GCD: 1
+Coefficients (a,b): -613962119, 640098451
+Time: 0.000000811 seconds
+
+Case 830:
+a: 1831538351
+b: 2706797861
+GCD: 1
+Coefficients (a,b): 427903340, -289538199
+Time: 0.000001122 seconds
+
+Case 831:
+a: 1768861417
+b: 1509906569
+GCD: 1
+Coefficients (a,b): -515136967, 603484960
+Time: 0.000000912 seconds
+
+Case 832:
+a: 2957204613
+b: 527343789
+GCD: 3
+Coefficients (a,b): -6538689, 36667240
+Time: 0.000001032 seconds
+
+Case 833:
+a: 426565304
+b: 3041060386
+GCD: 2
+Coefficients (a,b): -144532447, 20273365
+Time: 0.000001122 seconds
+
+Case 834:
+a: 2182946016
+b: 3061081408
+GCD: 32
+Coefficients (a,b): -43847633, 31269020
+Time: 0.000001052 seconds
+
+Case 835:
+a: 61286611
+b: 2047682212
+GCD: 1
+Coefficients (a,b): 992842331, -29715520
+Time: 0.000000721 seconds
+
+Case 836:
+a: 905891235
+b: 1629789371
+GCD: 1
+Coefficients (a,b): 536180486, -298026979
+Time: 0.000000972 seconds
+
+Case 837:
+a: 3590914085
+b: 1132095399
+GCD: 1
+Coefficients (a,b): -83056621, 263448814
+Time: 0.000001152 seconds
+
+Case 838:
+a: 388540443
+b: 125942495
+GCD: 1
+Coefficients (a,b): -4657798, 14369597
+Time: 0.000000721 seconds
+
+Case 839:
+a: 2744051502
+b: 654613011
+GCD: 3
+Coefficients (a,b): 73834240, -309503407
+Time: 0.000001092 seconds
+
+Case 840:
+a: 1988803734
+b: 249925133
+GCD: 1
+Coefficients (a,b): -48297772, 384334253
+Time: 0.000000972 seconds
+
+Case 841:
+a: 3807840287
+b: 3550522322
+GCD: 1
+Coefficients (a,b): -1641794099, 1760780287
+Time: 0.000001262 seconds
+
+Case 842:
+a: 2754150739
+b: 894060579
+GCD: 1
+Coefficients (a,b): -62721971, 193214830
+Time: 0.000001002 seconds
+
+Case 843:
+a: 556549695
+b: 3912141456
+GCD: 9
+Coefficients (a,b): -141821929, 20175894
+Time: 0.000000952 seconds
+
+Case 844:
+a: 3543421321
+b: 1323012137
+GCD: 1
+Coefficients (a,b): -99907148, 267581157
+Time: 0.000001002 seconds
+
+Case 845:
+a: 2192389162
+b: 3022175378
+GCD: 2
+Coefficients (a,b): -591266825, 428925134
+Time: 0.000001152 seconds
+
+Case 846:
+a: 738702985
+b: 3033572393
+GCD: 1
+Coefficients (a,b): -241389858, 58780667
+Time: 0.000001163 seconds
+
+Case 847:
+a: 4225707881
+b: 2646470314
+GCD: 1
+Coefficients (a,b): 278327681, -444415140
+Time: 0.000001042 seconds
+
+Case 848:
+a: 1084388986
+b: 2697509954
+GCD: 2
+Coefficients (a,b): -161315572, 64848261
+Time: 0.000001172 seconds
+
+Case 849:
+a: 2058229644
+b: 4158792576
+GCD: 12
+Coefficients (a,b): -133638751, 66139206
+Time: 0.000001293 seconds
+
+Case 850:
+a: 370895270
+b: 2341390126
+GCD: 2
+Coefficients (a,b): -192711724, 30527107
+Time: 0.000001082 seconds
+
+Case 851:
+a: 2173194619
+b: 670141133
+GCD: 1
+Coefficients (a,b): 179901071, -583399556
+Time: 0.000001202 seconds
+
+Case 852:
+a: 552770578
+b: 2856902875
+GCD: 1
+Coefficients (a,b): -1257657758, 243339111
+Time: 0.000000992 seconds
+
+Case 853:
+a: 2472956057
+b: 1060219062
+GCD: 1
+Coefficients (a,b): -248941921, 580655879
+Time: 0.000000911 seconds
+
+Case 854:
+a: 2932108455
+b: 848379731
+GCD: 1
+Coefficients (a,b): 264070868, -912662569
+Time: 0.000001172 seconds
+
+Case 855:
+a: 2465713622
+b: 215951993
+GCD: 1
+Coefficients (a,b): -18425788, 210383409
+Time: 0.000001001 seconds
+
+Case 856:
+a: 2973165601
+b: 3203843284
+GCD: 1
+Coefficients (a,b): 953417769, -884771402
+Time: 0.000000992 seconds
+
+Case 857:
+a: 1654170280
+b: 2373897879
+GCD: 1
+Coefficients (a,b): 579639415, -403902081
+Time: 0.000001202 seconds
+
+Case 858:
+a: 1300924359
+b: 1830039965
+GCD: 1
+Coefficients (a,b): 650982659, -462765412
+Time: 0.000001212 seconds
+
+Case 859:
+a: 1771714522
+b: 939774697
+GCD: 1
+Coefficients (a,b): 245513810, -462856027
+Time: 0.000001072 seconds
+
+Case 860:
+a: 3123453389
+b: 2456162078
+GCD: 1
+Coefficients (a,b): -716337867, 910952888
+Time: 0.000000952 seconds
+
+Case 861:
+a: 1350010240
+b: 3949659082
+GCD: 2
+Coefficients (a,b): 444926537, -152077779
+Time: 0.000001132 seconds
+
+Case 862:
+a: 2680264574
+b: 3916703399
+GCD: 1
+Coefficients (a,b): 697752070, -477483221
+Time: 0.000001082 seconds
+
+Case 863:
+a: 1868970381
+b: 3496207585
+GCD: 1
+Coefficients (a,b): 991620911, -530091554
+Time: 0.000001292 seconds
+
+Case 864:
+a: 1898175043
+b: 2312906748
+GCD: 1
+Coefficients (a,b): 964677115, -791699028
+Time: 0.000001112 seconds
+
+Case 865:
+a: 921249525
+b: 771061871
+GCD: 1
+Coefficients (a,b): 176693151, -211109494
+Time: 0.000001032 seconds
+
+Case 866:
+a: 497369897
+b: 2267366817
+GCD: 1
+Coefficients (a,b): 704543618, -154548785
+Time: 0.000001302 seconds
+
+Case 867:
+a: 3843341061
+b: 1921473961
+GCD: 1
+Coefficients (a,b): -901253442, 1802691283
+Time: 0.000000902 seconds
+
+Case 868:
+a: 1921696468
+b: 504069121
+GCD: 1
+Coefficients (a,b): -140158346, 534335049
+Time: 0.000000912 seconds
+
+Case 869:
+a: 1143304924
+b: 2999965693
+GCD: 1
+Coefficients (a,b): -167246942, 63738813
+Time: 0.000000942 seconds
+
+Case 870:
+a: 2073573086
+b: 3083822016
+GCD: 2
+Coefficients (a,b): 40350223, -27131636
+Time: 0.000000841 seconds
+
+Case 871:
+a: 1264935635
+b: 649394745
+GCD: 5
+Coefficients (a,b): 23714404, -46192543
+Time: 0.000000862 seconds
+
+Case 872:
+a: 2630224037
+b: 1927547876
+GCD: 1
+Coefficients (a,b): 884927397, -1207522438
+Time: 0.000001323 seconds
+
+Case 873:
+a: 3022454706
+b: 3269077358
+GCD: 2
+Coefficients (a,b): -287396728, 265715215
+Time: 0.000000911 seconds
+
+Case 874:
+a: 1236427698
+b: 3611890
+GCD: 2
+Coefficients (a,b): 647614, -221692213
+Time: 0.000000791 seconds
+
+Case 875:
+a: 459879511
+b: 2200263598
+GCD: 13
+Coefficients (a,b): -71265187, 14895215
+Time: 0.000000991 seconds
+
+Case 876:
+a: 3985845566
+b: 3389185574
+GCD: 2
+Coefficients (a,b): -434504565, 510998308
+Time: 0.000000981 seconds
+
+Case 877:
+a: 4164748877
+b: 601220194
+GCD: 1
+Coefficients (a,b): -167937001, 1163326587
+Time: 0.000001162 seconds
+
+Case 878:
+a: 3240920053
+b: 3720602450
+GCD: 1
+Coefficients (a,b): 274747317, -239325244
+Time: 0.000001332 seconds
+
+Case 879:
+a: 2839430493
+b: 422561897
+GCD: 1
+Coefficients (a,b): 77608821, -521497216
+Time: 0.000001112 seconds
+
+Case 880:
+a: 728745685
+b: 3153069812
+GCD: 1
+Coefficients (a,b): -1471621995, 340125098
+Time: 0.000000822 seconds
+
+Case 881:
+a: 3440278484
+b: 2689742281
+GCD: 1
+Coefficients (a,b): -1143423177, 1462479949
+Time: 0.000001212 seconds
+
+Case 882:
+a: 3798593223
+b: 85843921
+GCD: 1
+Coefficients (a,b): 32353620, -1431647579
+Time: 0.000000772 seconds
+
+Case 883:
+a: 3208617538
+b: 4198455763
+GCD: 1
+Coefficients (a,b): 1458703556, -1114796029
+Time: 0.000001042 seconds
+
+Case 884:
+a: 1605257442
+b: 178162552
+GCD: 2
+Coefficients (a,b): -19298327, 173879318
+Time: 0.000000952 seconds
+
+Case 885:
+a: 3092914405
+b: 1439016691
+GCD: 7
+Coefficients (a,b): 14975848, -32187963
+Time: 0.000001032 seconds
+
+Case 886:
+a: 868509115
+b: 594071398
+GCD: 1
+Coefficients (a,b): -98964821, 144682692
+Time: 0.000000741 seconds
+
+Case 887:
+a: 3169799009
+b: 1633670952
+GCD: 1
+Coefficients (a,b): 652851041, -1266721784
+Time: 0.000000981 seconds
+
+Case 888:
+a: 311371413
+b: 2471526421
+GCD: 1
+Coefficients (a,b): -822863099, 103667128
+Time: 0.000000732 seconds
+
+Case 889:
+a: 3393682152
+b: 3741046488
+GCD: 24
+Coefficients (a,b): 65163217, -59112670
+Time: 0.000001643 seconds
+
+Case 890:
+a: 4227964383
+b: 3270434096
+GCD: 1
+Coefficients (a,b): -1043754673, 1349349185
+Time: 0.000000922 seconds
+
+Case 891:
+a: 472601657
+b: 2110766924
+GCD: 1
+Coefficients (a,b): -396355815, 88744244
+Time: 0.000000992 seconds
+
+Case 892:
+a: 1612723615
+b: 1573070394
+GCD: 1
+Coefficients (a,b): -667289981, 684110714
+Time: 0.000000842 seconds
+
+Case 893:
+a: 3590494193
+b: 1856871326
+GCD: 1
+Coefficients (a,b): 479974335, -928090729
+Time: 0.000001082 seconds
+
+Case 894:
+a: 2395577318
+b: 2147115167
+GCD: 1
+Coefficients (a,b): -145232072, 162038191
+Time: 0.000001253 seconds
+
+Case 895:
+a: 1856896245
+b: 2769366320
+GCD: 5
+Coefficients (a,b): -62344095, 41802529
+Time: 0.000001092 seconds
+
+Case 896:
+a: 1851749027
+b: 1470515381
+GCD: 1
+Coefficients (a,b): 448032336, -564185491
+Time: 0.000001032 seconds
+
+Case 897:
+a: 219611730
+b: 3942021136
+GCD: 2
+Coefficients (a,b): -537630151, 29951612
+Time: 0.000000892 seconds
+
+Case 898:
+a: 680094113
+b: 239299252
+GCD: 1
+Coefficients (a,b): -70619051, 200701007
+Time: 0.000001232 seconds
+
+Case 899:
+a: 697730046
+b: 1089740437
+GCD: 1
+Coefficients (a,b): 3875384, -2481299
+Time: 0.000001002 seconds
+
+Case 900:
+a: 863569904
+b: 246866784
+GCD: 16
+Coefficients (a,b): 6688193, -23396109
+Time: 0.000000841 seconds
+
+Case 901:
+a: 2756225064
+b: 504834889
+GCD: 1
+Coefficients (a,b): 211652719, -1155551135
+Time: 0.000001052 seconds
+
+Case 902:
+a: 3025711966
+b: 504100945
+GCD: 1
+Coefficients (a,b): 222776241, -1337146349
+Time: 0.000000822 seconds
+
+Case 903:
+a: 2213742807
+b: 2913892720
+GCD: 1
+Coefficients (a,b): 580096503, -440710961
+Time: 0.000001032 seconds
+
+Case 904:
+a: 3357190097
+b: 1863560511
+GCD: 1
+Coefficients (a,b): 669207707, -1205572598
+Time: 0.000001222 seconds
+
+Case 905:
+a: 3237345005
+b: 470630615
+GCD: 5
+Coefficients (a,b): -14281328, 98237523
+Time: 0.000000922 seconds
+
+Case 906:
+a: 843430203
+b: 1294156400
+GCD: 1
+Coefficients (a,b): 322360067, -210089149
+Time: 0.000001012 seconds
+
+Case 907:
+a: 2161385637
+b: 2266722414
+GCD: 3
+Coefficients (a,b): -24700843, 23552971
+Time: 0.000001092 seconds
+
+Case 908:
+a: 2595172129
+b: 130703948
+GCD: 1
+Coefficients (a,b): -30278583, 601191746
+Time: 0.000000861 seconds
+
+Case 909:
+a: 1713128765
+b: 254792694
+GCD: 1
+Coefficients (a,b): -93751615, 630350054
+Time: 0.000001102 seconds
+
+Case 910:
+a: 4035140282
+b: 2090906223
+GCD: 1
+Coefficients (a,b): 200234996, -386423977
+Time: 0.000001022 seconds
+
+Case 911:
+a: 2143142006
+b: 218075003
+GCD: 1
+Coefficients (a,b): 64713049, -635970431
+Time: 0.000001102 seconds
+
+Case 912:
+a: 681935900
+b: 1576077099
+GCD: 1
+Coefficients (a,b): -123795388, 53563699
+Time: 0.000001172 seconds
+
+Case 913:
+a: 3154723847
+b: 2238742140
+GCD: 1
+Coefficients (a,b): -1037130517, 1461472635
+Time: 0.000001122 seconds
+
+Case 914:
+a: 3200084117
+b: 3782831959
+GCD: 1
+Coefficients (a,b): 1809989037, -1531158992
+Time: 0.000001122 seconds
+
+Case 915:
+a: 3418150556
+b: 3607516110
+GCD: 2
+Coefficients (a,b): 586765327, -555964871
+Time: 0.000000852 seconds
+
+Case 916:
+a: 3995078564
+b: 2772856851
+GCD: 1
+Coefficients (a,b): 749005508, -1079152661
+Time: 0.000001393 seconds
+
+Case 917:
+a: 1304370032
+b: 2986476794
+GCD: 14
+Coefficients (a,b): 32826917, -14337445
+Time: 0.000000822 seconds
+
+Case 918:
+a: 3460883737
+b: 679054860
+GCD: 1
+Coefficients (a,b): 210250033, -1071564262
+Time: 0.000000862 seconds
+
+Case 919:
+a: 1140751747
+b: 375958023
+GCD: 1
+Coefficients (a,b): -74909159, 227293338
+Time: 0.000000631 seconds
+
+Case 920:
+a: 3330735676
+b: 2109594881
+GCD: 1
+Coefficients (a,b): -66968401, 105733117
+Time: 0.000000741 seconds
+
+Case 921:
+a: 619152703
+b: 1426500282
+GCD: 1
+Coefficients (a,b): -291027329, 126316384
+Time: 0.000001172 seconds
+
+Case 922:
+a: 1659063043
+b: 1611320397
+GCD: 1
+Coefficients (a,b): -700301075, 721050658
+Time: 0.000000892 seconds
+
+Case 923:
+a: 1450138279
+b: 3547893030
+GCD: 1
+Coefficients (a,b): 719333029, -294014603
+Time: 0.000000942 seconds
+
+Case 924:
+a: 2611653344
+b: 2090917656
+GCD: 8
+Coefficients (a,b): 75997054, -94923853
+Time: 0.000001042 seconds
+
+Case 925:
+a: 4204645994
+b: 1938971141
+GCD: 1
+Coefficients (a,b): 631963013, -1370407581
+Time: 0.000001032 seconds
+
+Case 926:
+a: 1829813704
+b: 3431060095
+GCD: 1
+Coefficients (a,b): 1597619644, -852024225
+Time: 0.000000952 seconds
+
+Case 927:
+a: 3935875833
+b: 336587247
+GCD: 9
+Coefficients (a,b): 4266814, -49893899
+Time: 0.000001001 seconds
+
+Case 928:
+a: 2355313519
+b: 2775396089
+GCD: 1
+Coefficients (a,b): -908161821, 770702900
+Time: 0.000001252 seconds
+
+Case 929:
+a: 1771002570
+b: 2742289394
+GCD: 2
+Coefficients (a,b): 16735756, -10808147
+Time: 0.000001022 seconds
+
+Case 930:
+a: 3785832358
+b: 4126909821
+GCD: 1
+Coefficients (a,b): 1572227188, -1442287043
+Time: 0.000001032 seconds
+
+Case 931:
+a: 4098345859
+b: 1030017161
+GCD: 1
+Coefficients (a,b): 136194529, -541905810
+Time: 0.000000962 seconds
+
+Case 932:
+a: 2751827945
+b: 1450016477
+GCD: 1
+Coefficients (a,b): -202216778, 383765143
+Time: 0.000001253 seconds
+
+Case 933:
+a: 1516476549
+b: 1981131006
+GCD: 3
+Coefficients (a,b): -45192079, 34592729
+Time: 0.000001252 seconds
+
+Case 934:
+a: 1773440835
+b: 2388565614
+GCD: 3
+Coefficients (a,b): -387845155, 287963802
+Time: 0.000001152 seconds
+
+Case 935:
+a: 1825711462
+b: 3273663511
+GCD: 1
+Coefficients (a,b): -537086471, 299531373
+Time: 0.000001002 seconds
+
+Case 936:
+a: 3293055402
+b: 1698164797
+GCD: 7
+Coefficients (a,b): -62921876, 122017147
+Time: 0.000001052 seconds
+
+Case 937:
+a: 1213624736
+b: 1982024913
+GCD: 211
+Coefficients (a,b): 599111, -366845
+Time: 0.000001102 seconds
+
+Case 938:
+a: 1085447271
+b: 1154266967
+GCD: 1
+Coefficients (a,b): -2704388, 2543147
+Time: 0.000000911 seconds
+
+Case 939:
+a: 285947447
+b: 2958344111
+GCD: 1
+Coefficients (a,b): -1466362756, 141735603
+Time: 0.000000972 seconds
+
+Case 940:
+a: 177343349
+b: 216998995
+GCD: 1
+Coefficients (a,b): 99674844, -81459689
+Time: 0.000001042 seconds
+
+Case 941:
+a: 1535467067
+b: 2805696518
+GCD: 1
+Coefficients (a,b): -133011975, 72793157
+Time: 0.000001092 seconds
+
+Case 942:
+a: 1939246954
+b: 1794898309
+GCD: 1
+Coefficients (a,b): -276714976, 298968845
+Time: 0.000000862 seconds
+
+Case 943:
+a: 3220899150
+b: 188904284
+GCD: 2
+Coefficients (a,b): 37484811, -639132122
+Time: 0.000001022 seconds
+
+Case 944:
+a: 2467820880
+b: 3493060267
+GCD: 1
+Coefficients (a,b): 806498692, -569785277
+Time: 0.000001032 seconds
+
+Case 945:
+a: 3942519178
+b: 624381355
+GCD: 13
+Coefficients (a,b): 1534631, -9690091
+Time: 0.000000782 seconds
+
+Case 946:
+a: 1938381730
+b: 2803645485
+GCD: 5
+Coefficients (a,b): -79084681, 54677491
+Time: 0.000000802 seconds
+
+Case 947:
+a: 1151074442
+b: 1442402379
+GCD: 1
+Coefficients (a,b): 318920702, -254506977
+Time: 0.000001022 seconds
+
+Case 948:
+a: 3208274644
+b: 2630727882
+GCD: 2
+Coefficients (a,b): 106153205, -129457949
+Time: 0.000000871 seconds
+
+Case 949:
+a: 4091986465
+b: 3986447499
+GCD: 1
+Coefficients (a,b): -1504585958, 1544419029
+Time: 0.000001142 seconds
+
+Case 950:
+a: 1512034188
+b: 4069953571
+GCD: 1
+Coefficients (a,b): 2022921433, -751538393
+Time: 0.000001062 seconds
+
+Case 951:
+a: 3829420629
+b: 1928166615
+GCD: 9
+Coefficients (a,b): 56193496, -111602665
+Time: 0.000001142 seconds
+
+Case 952:
+a: 1242143887
+b: 4285334828
+GCD: 1
+Coefficients (a,b): 139884367, -40546776
+Time: 0.000001052 seconds
+
+Case 953:
+a: 607771758
+b: 584284699
+GCD: 1
+Coefficients (a,b): -101890617, 105986413
+Time: 0.000001012 seconds
+
+Case 954:
+a: 1633185558
+b: 3768433909
+GCD: 1
+Coefficients (a,b): 876275924, -379765499
+Time: 0.000000972 seconds
+
+Case 955:
+a: 3405898499
+b: 1204319366
+GCD: 1
+Coefficients (a,b): -301397209, 852372162
+Time: 0.000001132 seconds
+
+Case 956:
+a: 1433293240
+b: 1730229028
+GCD: 4
+Coefficients (a,b): -91377206, 75695373
+Time: 0.000001072 seconds
+
+Case 957:
+a: 2233180866
+b: 3963861872
+GCD: 2
+Coefficients (a,b): 681490617, -383941685
+Time: 0.000001092 seconds
+
+Case 958:
+a: 1840623354
+b: 3619733341
+GCD: 1
+Coefficients (a,b): -1273049143, 647341603
+Time: 0.000001042 seconds
+
+Case 959:
+a: 2469314663
+b: 3966276196
+GCD: 1
+Coefficients (a,b): 339232135, -211198324
+Time: 0.000001213 seconds
+
+Case 960:
+a: 2962893867
+b: 3736109306
+GCD: 1
+Coefficients (a,b): -588245951, 466504103
+Time: 0.000001202 seconds
+
+Case 961:
+a: 2838075119
+b: 457369451
+GCD: 11
+Coefficients (a,b): 9622639, -59710530
+Time: 0.000001011 seconds
+
+Case 962:
+a: 4018313433
+b: 3275325926
+GCD: 1
+Coefficients (a,b): -856810645, 1051172861
+Time: 0.000001092 seconds
+
+Case 963:
+a: 5594972
+b: 757514599
+GCD: 1
+Coefficients (a,b): 265031111, -1957509
+Time: 0.000000912 seconds
+
+Case 964:
+a: 341798217
+b: 14029961
+GCD: 1
+Coefficients (a,b): 3941955, -96033994
+Time: 0.000001032 seconds
+
+Case 965:
+a: 1976015970
+b: 776201450
+GCD: 10
+Coefficients (a,b): -29772857, 75794294
+Time: 0.000000832 seconds
+
+Case 966:
+a: 2726747203
+b: 168160580
+GCD: 1
+Coefficients (a,b): 11833867, -191887800
+Time: 0.000000902 seconds
+
+Case 967:
+a: 869302785
+b: 3024239109
+GCD: 3
+Coefficients (a,b): 257262576, -73948873
+Time: 0.000001112 seconds
+
+Case 968:
+a: 1292746821
+b: 2760805163
+GCD: 1
+Coefficients (a,b): 1149919122, -538449547
+Time: 0.000001192 seconds
+
+Case 969:
+a: 1658787187
+b: 1516371608
+GCD: 1
+Coefficients (a,b): 49210299, -53832064
+Time: 0.000001102 seconds
+
+Case 970:
+a: 3248425936
+b: 1876780661
+GCD: 7
+Coefficients (a,b): 69809206, -120829269
+Time: 0.000001213 seconds
+
+Case 971:
+a: 2236375887
+b: 1648879543
+GCD: 1
+Coefficients (a,b): -58180935, 78910822
+Time: 0.000001082 seconds
+
+Case 972:
+a: 2854239481
+b: 3925251939
+GCD: 1
+Coefficients (a,b): 1706634703, -1240976178
+Time: 0.000001042 seconds
+
+Case 973:
+a: 2044748713
+b: 3476307368
+GCD: 1
+Coefficients (a,b): 677799897, -398678920
+Time: 0.000001192 seconds
+
+Case 974:
+a: 415336438
+b: 4020370337
+GCD: 1
+Coefficients (a,b): -242802279, 25083419
+Time: 0.000001142 seconds
+
+Case 975:
+a: 1745037825
+b: 1811006805
+GCD: 15
+Coefficients (a,b): 32435422, -31253907
+Time: 0.000000932 seconds
+
+Case 976:
+a: 2256574857
+b: 351996060
+GCD: 3
+Coefficients (a,b): -3733921, 23937405
+Time: 0.000001062 seconds
+
+Case 977:
+a: 2299008187
+b: 59402478
+GCD: 1
+Coefficients (a,b): -4890245, 189263372
+Time: 0.000001072 seconds
+
+Case 978:
+a: 2461172180
+b: 1770629488
+GCD: 4
+Coefficients (a,b): -157781175, 219315583
+Time: 0.000001072 seconds
+
+Case 979:
+a: 1761652371
+b: 803778610
+GCD: 1
+Coefficients (a,b): -105708679, 231683131
+Time: 0.000001062 seconds
+
+Case 980:
+a: 4139922336
+b: 2579428026
+GCD: 6
+Coefficients (a,b): 111772477, -179392241
+Time: 0.000001122 seconds
+
+Case 981:
+a: 3569957767
+b: 2878103982
+GCD: 1
+Coefficients (a,b): -865952075, 1074114193
+Time: 0.000000922 seconds
+
+Case 982:
+a: 3967991204
+b: 1591996860
+GCD: 4
+Coefficients (a,b): -125914969, 313838238
+Time: 0.000001042 seconds
+
+Case 983:
+a: 2269161870
+b: 2525944017
+GCD: 3
+Coefficients (a,b): -87633874, 78725199
+Time: 0.000001372 seconds
+
+Case 984:
+a: 1967507705
+b: 1770624979
+GCD: 1
+Coefficients (a,b): -410079512, 455677859
+Time: 0.000000831 seconds
+
+Case 985:
+a: 3277589114
+b: 2214713902
+GCD: 2
+Coefficients (a,b): 240437826, -355827631
+Time: 0.000001112 seconds
+
+Case 986:
+a: 594497157
+b: 508361935
+GCD: 1
+Coefficients (a,b): -199067322, 232796653
+Time: 0.000000891 seconds
+
+Case 987:
+a: 1308062741
+b: 4257097524
+GCD: 1
+Coefficients (a,b): 96097385, -29527491
+Time: 0.000000782 seconds
+
+Case 988:
+a: 948365473
+b: 1737064879
+GCD: 11
+Coefficients (a,b): 13659985, -7457786
+Time: 0.000001162 seconds
+
+Case 989:
+a: 814169797
+b: 479307375
+GCD: 1
+Coefficients (a,b): 232144258, -394329095
+Time: 0.000000952 seconds
+
+Case 990:
+a: 3335910784
+b: 1465150807
+GCD: 73
+Coefficients (a,b): 6887321, -15681313
+Time: 0.000001223 seconds
+
+Case 991:
+a: 989768850
+b: 1082635640
+GCD: 10
+Coefficients (a,b): -23475003, 21461354
+Time: 0.000001173 seconds
+
+Case 992:
+a: 1745266210
+b: 1669242581
+GCD: 1
+Coefficients (a,b): 507802653, -530929909
+Time: 0.000000952 seconds
+
+Case 993:
+a: 1475805775
+b: 2144011443
+GCD: 1
+Coefficients (a,b): 835749283, -575278468
+Time: 0.000001202 seconds
+
+Case 994:
+a: 2840265897
+b: 554822911
+GCD: 1
+Coefficients (a,b): 216923683, -1110482150
+Time: 0.000001042 seconds
+
+Case 995:
+a: 1224293945
+b: 1690331858
+GCD: 1
+Coefficients (a,b): 538557785, -390073128
+Time: 0.000001092 seconds
+
+Case 996:
+a: 397590129
+b: 2746300281
+GCD: 3
+Coefficients (a,b): 334643975, -48447412
+Time: 0.000001283 seconds
+
+Case 997:
+a: 3222945676
+b: 1739739256
+GCD: 4
+Coefficients (a,b): -14279071, 26452625
+Time: 0.000001252 seconds
+
+Case 998:
+a: 4265736692
+b: 2537940223
+GCD: 7
+Coefficients (a,b): -54019698, 90795601
+Time: 0.000001082 seconds
+
+Case 999:
+a: 2724006166
+b: 4248532403
+GCD: 1
+Coefficients (a,b): 949863602, -609018377
+Time: 0.000001312 seconds
+
+Case 1000:
+a: 1851514578
+b: 88849191
+GCD: 3
+Coefficients (a,b): 12486930, -260213207
+Time: 0.000000922 seconds
+
+=== Summary ===
+Total test cases: 1000
+Total time: 0.001118463 seconds
+Average time: 0.000001118 seconds
