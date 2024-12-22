@@ -1,0 +1,7 @@
+Performance Analysis (100 runs):
+Number of pairs processed per run: 1000
+Average time: 0.037008 ms
+Standard deviation: 0.331478 ms
+Minimum time: 0.003072 ms
+Maximum time: 3.335168 ms
+Average time per pair: 0.000037 ms
